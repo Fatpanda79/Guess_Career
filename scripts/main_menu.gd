@@ -28,7 +28,7 @@ func _ready() -> void:
 	_update_button_visuals()
 
 func _on_play_button_pressed():
-	get_tree().change_scene_to_file("res://main.tscn")
+	get_tree().change_scene_to_file("res://scenes/main.tscn")
 	
 func _on_easy_button_pressed():
 	global.easy_state = true 
@@ -93,6 +93,6 @@ func _on_help_button_pressed():
 	tips.show()
 	crossbtn.show()
 func _on_cross_button_pressed():
-	get_tree().change_scene_to_file("res://main_menu.tscn")
+	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 func _on_tutpressed():
-	get_tree().change_scene_to_file("res://tutorial.tscn")
+	get_tree().change_scene_to_file("res://scenes/tutorial.tscn")

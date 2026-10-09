@@ -452,10 +452,10 @@ func _on_crossbtn_pressed():
 	tips.hide()
 	
 func _on_home_pressed():
-	get_tree().change_scene_to_file("res://main_menu.tscn")
+	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 
 func _on_skip_pressed():
-	get_tree().change_scene_to_file("res://main_menu.tscn")
+	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 	
 func _on_help_button_pressed():
 	help.hide()
