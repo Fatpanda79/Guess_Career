@@ -1,0 +1,1815 @@
+{
+	"questions": [
+		{
+			"id": "q1",
+			"text": "Do you work indoors?"
+		},
+		{
+			"id": "q2",
+			"text": "Is your primary workplace 
+			inside a building?"
+		},
+		{
+			"id": "q3",
+			"text": "Do you work
+			 outdoors?"
+		},
+		{
+			"id": "q4",
+			"text": "Are you exposed to the weather while working?"
+		},
+		{
+			"id": "q5",
+			"text": "Do you sit at a desk all day?"
+		},
+		{
+			"id": "q6",
+			"text": "Are you sitting down for the majority of your shift?"
+		},
+		{
+			"id": "q7",
+			"text": "Do you stand on your feet all day?"
+		},
+		{
+			"id": "q8",
+			"text": "Is your job physically demanding on your legs?"
+		},
+		{
+			"id": "q9",
+			"text": "Do you stare at a screen all day?"
+		},
+		{
+			"id": "q10",
+			"text": "Is a computer your main tool?"
+		},
+		{
+			"id": "q11",
+			"text": "Did you need a university degree?"
+		},
+		{
+			"id": "q12",
+			"text": "Did you go to college for this?"
+		},
+		{
+			"id": "q13",
+			"text": "Can you wear casual clothes like a t-shirt?"
+		},
+		{
+			"id": "q14",
+			"text": "Do you wear jeans to work?"
+		},
+		{
+			"id": "q15",
+			"text": "Do you work in an office building?"
+		},
+		{
+			"id": "q16",
+			"text": "Do you have a cubicle or desk space?"
+		},
+		{
+			"id": "q17",
+			"text": "Is your job generally considered safe?"
+		},
+		{
+			"id": "q18",
+			"text": "Do you have to worry about injury at work?"
+		},
+		{
+			"id": "q19",
+			"text": "Do you work in the technology sector?"
+		},
+		{
+			"id": "q20",
+			"text": "Do you write or work with software?"
+		},
+		{
+			"id": "q21",
+			"text": "Do you work directly with food?"
+		},
+		{
+			"id": "q22",
+			"text": "Do you prepare or serve things people eat?"
+		},
+		{
+			"id": "q23",
+			"text": "Do you have to wake up extremely early?"
+		},
+		{
+			"id": "q24",
+			"text": "Are you a morning person for this job?"
+		},
+		{
+			"id": "q25",
+			"text": "Do you have to wear a specific uniform?"
+		},
+		{
+			"id": "q26",
+			"text": "Does your company dictate exactly what you wear?"
+		},
+		{
+			"id": "q27",
+			"text": "Does your workplace get very hot?"
+		},
+		{
+			"id": "q28",
+			"text": "Do you sweat a lot due to the environment?"
+		},
+		{
+			"id": "q29",
+			"text": "Do you work in a kitchen?"
+		},
+		{
+			"id": "q30",
+			"text": "Are you surrounded by ovens and stoves?"
+		},
+		{
+			"id": "q31",
+			"text": "Do you work primarily with your hands?"
+		},
+		{
+			"id": "q32",
+			"text": "Is manual dexterity important for you?"
+		},
+		{
+			"id": "q33",
+			"text": "Do you work in a hospital or clinic?"
+		},
+		{
+			"id": "q34",
+			"text": "Are you surrounded by patients?"
+		},
+		{
+			"id": "q35",
+			"text": "Do you wear medical scrubs?"
+		},
+		{
+			"id": "q36",
+			"text": "Do you wear sanitary medical clothing?"
+		},
+		{
+			"id": "q37",
+			"text": "Do you use specialized physical tools?"
+		},
+		{
+			"id": "q38",
+			"text": "Do you carry equipment to do your job?"
+		},
+		{
+			"id": "q39",
+			"text": "Are you generally very well paid?"
+		},
+		{
+			"id": "q40",
+			"text": "Do people in your field make a high salary?"
+		},
+		{
+			"id": "q41",
+			"text": "Do you use science daily?"
+		},
+		{
+			"id": "q42",
+			"text": "Do you conduct experiments or apply biology/chemistry?"
+		},
+		{
+			"id": "q43",
+			"text": "Do you ever see blood at work?"
+		},
+		{
+			"id": "q44",
+			"text": "Are you squeamish around bodily fluids?"
+		},
+		{
+			"id": "q45",
+			"text": "Do you have to lift heavy objects?"
+		},
+		{
+			"id": "q46",
+			"text": "Is your job physically exhausting?"
+		},
+		{
+			"id": "q47",
+			"text": "Do you wear heavy protective gear?"
+		},
+		{
+			"id": "q48",
+			"text": "Do you wear a helmet or heavy boots?"
+		},
+		{
+			"id": "q49",
+			"text": "Is your job considered dangerous?"
+		},
+		{
+			"id": "q50",
+			"text": "Do you put your life on the line?"
+		},
+		{
+			"id": "q51",
+			"text": "Do you drive a very large vehicle?"
+		},
+		{
+			"id": "q52",
+			"text": "Are you behind the wheel of a heavy machine?"
+		},
+		{
+			"id": "q53",
+			"text": "Do you deal or interact with the general public or people?"
+		},
+		{
+			"id": "q54",
+			"text": "Do you serve or help everyday citizens?"
+		},
+		{
+			"id": "q55",
+			"text": "Do you work closely in a team?"
+		},
+		{
+			"id": "q56",
+			"text": "Do you have partners you rely on?"
+		},
+		{
+			"id": "q57",
+			"text": "Do you work irregular shifts?"
+		},
+		{
+			"id": "q58",
+			"text": "Is your schedule different every week?"
+		},
+		{
+			"id": "q59",
+			"text": "Do you deal with actual fires?"
+		},
+		{
+			"id": "q60",
+			"text": "Is smoke a hazard in your workplace?"
+		},
+		{
+			"id": "q61",
+			"text": "Do you perform on a stage?"
+		},
+		{
+			"id": "q62",
+			"text": "Are there bright lights shining on you?"
+		},
+		{
+			"id": "q63",
+			"text": "Do you travel a lot for work?"
+		},
+		{
+			"id": "q64",
+			"text": "Do you visit different cities or locations?"
+		},
+		{
+			"id": "q65",
+			"text": "Do you work late at night?"
+		},
+		{
+			"id": "q66",
+			"text": "Are you a night owl for this career?"
+		},
+		{
+			"id": "q67",
+			"text": "Do you speak into a microphone?"
+		},
+		{
+			"id": "q68",
+			"text": "Is your voice amplified for others?"
+		},
+		{
+			"id": "q69",
+			"text": "Is your primary goal to make people laugh?"
+		},
+		{
+			"id": "q70",
+			"text": "Are jokes part of your job description?"
+		},
+		{
+			"id": "q71",
+			"text": "Do you work with animals?"
+		},
+		{
+			"id": "q72",
+			"text": "Are you surrounded by non-human creatures?"
+		},
+		{
+			"id": "q73",
+			"text": "Do you get physically dirty at work?"
+		},
+		{
+			"id": "q74",
+			"text": "Do you need a shower immediately after your shift?"
+		},
+		{
+			"id": "q75",
+			"text": "Do you work out in nature?"
+		},
+		{
+			"id": "q76",
+			"text": "Are you interacting with plants or wildlife?"
+		},
+		{
+			"id": "q77",
+			"text": "Did you go to a trade school?"
+		},
+		{
+			"id": "q78",
+			"text": "Did you do an apprenticeship?"
+		},
+		{
+			"id": "q79",
+			"text": "Do you work on or near the water?"
+		},
+		{
+			"id": "q80",
+			"text": "Do you get wet while working?"
+		},
+		{
+			"id": "q81",
+			"text": "Do you wear a suit and tie?"
+		},
+		{
+			"id": "q82",
+			"text": "Do you have to dress up professionally?"
+		},
+		{
+			"id": "q83",
+			"text": "Do you carry a weapon?"
+		},
+		{
+			"id": "q84",
+			"text": "Do you have a firearm for your job?"
+		},
+		{
+			"id": "q85",
+			"text": "Do you deal with criminals?"
+		},
+		{
+			"id": "q86",
+			"text": "Are you involved in the justice system?"
+		},
+		{
+			"id": "q87",
+			"text": "Do you spend a lot of time in a car?"
+		},
+		{
+			"id": "q88",
+			"text": "Is a regular vehicle your main workspace?"
+		},
+		{
+			"id": "q89",
+			"text": "Do you work in a school?"
+		},
+		{
+			"id": "q90",
+			"text": "Are there classrooms where you work?"
+		},
+		{
+			"id": "q91",
+			"text": "Do you work with children or teenagers?"
+		},
+		{
+			"id": "q92",
+			"text": "Are young people your main clients?"
+		},
+		{
+			"id": "q93",
+			"text": "Do you talk for most of the day?"
+		},
+		{
+			"id": "q94",
+			"text": "Does your throat get sore from speaking?"
+		},
+		{
+			"id": "q95",
+			"text": "Do you operate a vehicle?"
+		},
+		{
+			"id": "q96",
+			"text": "Is transportation your main duty?"
+		},
+		{
+			"id": "q97",
+			"text": "Do you work high up in the air?"
+		},
+		{
+			"id": "q98",
+			"text": "Are you flying for work?"
+		},
+		{
+			"id": "q99",
+			"text": "Do you have to memorize lots of text?"
+		},
+		{
+			"id": "q100",
+			"text": "Do you rehearse words before working?"
+		},
+		{
+			"id": "q101",
+			"text": "Is your job highly creative or artistic?"
+		},
+		{
+			"id": "q102",
+			"text": "Are you considered an artist?"
+		},
+		{
+			"id": "q103",
+			"text": "Are people in your job often famous?"
+		},
+		{
+			"id": "q104",
+			"text": "Do you have fans?"
+		},
+		{
+			"id": "q105",
+			"text": "Do you use complex math?"
+		},
+		{
+			"id": "q106",
+			"text": "Do you calculate things daily?"
+		},
+		{
+			"id": "q107",
+			"text": "Do you design things visually or structurally?"
+		},
+		{
+			"id": "q108",
+			"text": "Do you plan how things will look?"
+		},
+		{
+			"id": "q109",
+			"text": "Is your job considered highly intellectual?"
+		},
+		{
+			"id": "q110",
+			"text": "Do you solve complex mental problems?"
+		},
+		{
+			"id": "q111",
+			"text": "Do you work completely alone mostly?"
+		},
+		{
+			"id": "q112",
+			"text": "Are you isolated while you work?"
+		},
+		{
+			"id": "q113",
+			"text": "Do you work with books or literature?"
+		},
+		{
+			"id": "q114",
+			"text": "Are you surrounded by written words?"
+		},
+		{
+			"id": "q115",
+			"text": "Do you handle large amounts of cash or finances?"
+		},
+		{
+			"id": "q116",
+			"text": "Do you process transactions?"
+		},
+		{
+			"id": "q117",
+			"text": "Do you serve beverages?"
+		},
+		{
+			"id": "q118",
+			"text": "Are liquids your main product?"
+		},
+		{
+			"id": "q119",
+			"text": "Is your workplace very loud?"
+		},
+		{
+			"id": "q120",
+			"text": "Do you have to shout to be heard?"
+		},
+		{
+			"id": "q121",
+			"text": "Do you work in a laboratory?"
+		},
+		{
+			"id": "q122",
+			"text": "Are you surrounded by beakers and microscopes?"
+		},
+		{
+			"id": "q123",
+			"text": "Do you work with wood?"
+		},
+		{
+			"id": "q124",
+			"text": "Is timber your main material?"
+		},
+		{
+			"id": "q125",
+			"text": "Do you use knives professionally?"
+		},
+		{
+			"id": "q126",
+			"text": "Are you constantly chopping or cutting?"
+		},
+		{
+			"id": "q127",
+			"text": "Do you look in people's mouths?"
+		},
+		{
+			"id": "q128",
+			"text": "Do you deal with teeth?"
+		},
+		{
+			"id": "q129",
+			"text": "Do you work with electricity and wires?"
+		},
+		{
+			"id": "q130",
+			"text": "Is there a risk of electrocution?"
+		},
+		{
+			"id": "q131",
+			"text": "Do you drive a tractor?"
+		},
+		{
+			"id": "q132",
+			"text": "Are you plowing fields?"
+		},
+		{
+			"id": "q133",
+			"text": "Do you arrange plants or flowers?"
+		},
+		{
+			"id": "q134",
+			"text": "Are you making bouquets?"
+		},
+		{
+			"id": "q135",
+			"text": "Does your workplace smell really good?"
+		},
+		{
+			"id": "q136",
+			"text": "Are you surrounded by pleasant scents?"
+		},
+		{
+			"id": "q137",
+			"text": "Do you cut or style hair?"
+		},
+		{
+			"id": "q138",
+			"text": "Do you use a blow dryer daily?"
+		},
+		{
+			"id": "q139",
+			"text": "Do you use scissors constantly?"
+		},
+		{
+			"id": "q140",
+			"text": "Are shears your main tool?"
+		},
+		{
+			"id": "q141",
+			"text": "Do you write articles or text for a living?"
+		},
+		{
+			"id": "q142",
+			"text": "Is publishing words your goal?"
+		},
+		{
+			"id": "q143",
+			"text": "Do you report on current events?"
+		},
+		{
+			"id": "q144",
+			"text": "Are you keeping the public informed?"
+		},
+		{
+			"id": "q145",
+			"text": "Do you enforce or practice the law?"
+		},
+		{
+			"id": "q146",
+			"text": "Are you involved in courtrooms or justice?"
+		},
+		{
+			"id": "q147",
+			"text": "Do you use a wooden hammer?"
+		},
+		{
+			"id": "q148",
+			"text": "Do you bang a gavel?"
+		},
+		{
+			"id": "q149",
+			"text": "Does your workplace have to be strictly quiet?"
+		},
+		{
+			"id": "q150",
+			"text": "Do you 'shhh' people?"
+		},
+		{
+			"id": "q151",
+			"text": "Do you blow a whistle?"
+		},
+		{
+			"id": "q152",
+			"text": "Is a whistle around your neck?"
+		},
+		{
+			"id": "q153",
+			"text": "Do you get a sunburn at work?"
+		},
+		{
+			"id": "q154",
+			"text": "Are you exposed to the sun all day?"
+		},
+		{
+			"id": "q155",
+			"text": "Do you perform illusions?"
+		},
+		{
+			"id": "q156",
+			"text": "Are you fooling people on purpose?"
+		},
+		{
+			"id": "q157",
+			"text": "Do you use playing cards for work?"
+		},
+		{
+			"id": "q158",
+			"text": "Are decks of cards your tools?"
+		},
+		{
+			"id": "q159",
+			"text": "Do you have to swim for work?"
+		},
+		{
+			"id": "q160",
+			"text": "Is knowing how to swim mandatory?"
+		},
+		{
+			"id": "q161",
+			"text": "Do you work on or in automobiles?"
+		},
+		{
+			"id": "q162",
+			"text": "Are you surrounded by cars?"
+		},
+		{
+			"id": "q163",
+			"text": "Do you play a musical instrument?"
+		},
+		{
+			"id": "q164",
+			"text": "Is a guitar or piano your tool?"
+		},
+		{
+			"id": "q165",
+			"text": "Do you use paint?"
+		},
+		{
+			"id": "q166",
+			"text": "Are your clothes covered in paint stains?"
+		},
+		{
+			"id": "q167",
+			"text": "Do you prescribe or dispense medicine?"
+		},
+		{
+			"id": "q168",
+			"text": "Are pills and prescriptions your focus?"
+		},
+		{
+			"id": "q169",
+			"text": "Do you use a camera professionally?"
+		},
+		{
+			"id": "q170",
+			"text": "Is a lens your main tool?"
+		},
+		{
+			"id": "q171",
+			"text": "Do you focus a lens?"
+		},
+		{
+			"id": "q172",
+			"text": "Are you looking through a viewfinder?"
+		},
+		{
+			"id": "q173",
+			"text": "Do you sell or show houses?"
+		},
+		{
+			"id": "q174",
+			"text": "Are you walking through homes daily?"
+		},
+		{
+			"id": "q175",
+			"text": "Do you work on commission?"
+		},
+		{
+			"id": "q176",
+			"text": "Is making a sale your primary goal?"
+		},
+		{
+			"id": "q177",
+			"text": "Do you answer a telephone all day?"
+		},
+		{
+			"id": "q178",
+			"text": "Is a headset on your ear?"
+		},
+		{
+			"id": "q179",
+			"text": "Do you wear a white lab coat?"
+		},
+		{
+			"id": "q180",
+			"text": "Is a white coat your uniform?"
+		},
+		{
+			"id": "q181",
+			"text": "Is your voice your primary instrument?"
+		},
+		{
+			"id": "q182",
+			"text": "Do you do vocal warmups?"
+		},
+		{
+			"id": "q183",
+			"text": "Do you have to be incredibly physically fit?"
+		},
+		{
+			"id": "q184",
+			"text": "Do you train your body for your job?"
+		},
+		{
+			"id": "q185",
+			"text": "Do you make or alter clothing?"
+		},
+		{
+			"id": "q186",
+			"text": "Are you sewing fabric?"
+		},
+		{
+			"id": "q187",
+			"text": "Do you use a needle and thread?"
+		},
+		{
+			"id": "q188",
+			"text": "Are you careful not to prick your finger?"
+		},
+		{
+			"id": "q189",
+			"text": "Do you navigate city streets all day?"
+		},
+		{
+			"id": "q190",
+			"text": "Are you always in an urban environment?"
+		},
+		{
+			"id": "q191",
+			"text": "Do you rely heavily on customer tips?"
+		},
+		{
+			"id": "q192",
+			"text": "Are gratuities expected in your line of work?"
+		},
+		{
+			"id": "q193",
+			"text": "Do you carry multiple plates at once?"
+		},
+		{
+			"id": "q194",
+			"text": "Are you dropping off meals?"
+		},
+		{
+			"id": "q195",
+			"text": "Do you work both indoors and outdoors?"
+		},
+		{
+			"id": "q196",
+			"text": "Do you split your time inside and outside?"
+		},
+		{
+			"id": "q197",
+			"text": "Do you specifically code, program, or build digital software?"
+		},
+		{
+			"id": "q198",
+			"text": "Do you perform surgical procedures on human organs?"
+		},
+		{
+			"id": "q199",
+			"text": "Is your main objective to safely put out building or wild fires?"
+		}
+	],
+	"professions": [
+		{
+			"job_title": "Software Engineer",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q9": "Yes, I stare at a screen almost all day.",
+				"q10": "Yes, a computer is absolutely my main tool.",
+				"q11": "Usually, yes, a degree or equivalent proof of skill is expected.",
+				"q12": "Often yes, though self-taught routes exist.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can wear jeans comfortably.",
+				"q15": "Yes, usually in a standard office or from home.",
+				"q16": "Yes, I typically have a desk setup.",
+				"q17": "Yes, there is very little physical risk.",
+				"q18": "No, physical injuries at work are highly unlikely.",
+				"q19": "Yes, my work is heavily tech-focused.",
+				"q20": "Yes, creating software is my main focus.",
+				"q197": "Yes, coding and programming systems is exactly what defines my job."
+			}
+		},
+		{
+			"job_title": "Baker",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, my legs and feet feel it constantly.",
+				"q21": "Yes, handling baking ingredients and food is a huge part of it.",
+				"q22": "Yes, I bake things people eat daily.",
+				"q23": "Yes, my shifts start well before sunrise.",
+				"q24": "Yes, early mornings are absolutely required.",
+				"q25": "Yes, specialized aprons, hats, or kitchen wear are standard.",
+				"q26": "Yes, kitchen dress codes are strictly enforced for hygiene.",
+				"q27": "Yes, the ovens make it extremely warm.",
+				"q28": "Yes, the kitchen heat can be intense.",
+				"q29": "Yes, specifically a commercial bakery kitchen.",
+				"q30": "Yes, my workplace revolves around ovens.",
+				"q31": "Yes, kneading and shaping dough is very hands-on work.",
+				"q32": "Yes, I need good manual dexterity."
+			}
+		},
+		{
+			"job_title": "Surgeon",
+			"answers": {
+				"q1": "Yes, I work entirely indoors.",
+				"q2": "Yes, my workspace is strictly inside a hospital.",
+				"q7": "Yes, long hours standing over an operating table are common.",
+				"q8": "Yes, it can be physically demanding on my feet and back.",
+				"q11": "Yes, a doctoral university degree is non-negotiable.",
+				"q12": "Yes, many years of higher medical education are mandatory.",
+				"q31": "Yes, it is highly intricate, hands-on work.",
+				"q32": "Yes, perfect manual dexterity is critical.",
+				"q33": "Yes, in a hospital operating room.",
+				"q34": "Yes, I work directly with patients in healthcare.",
+				"q35": "Yes, medical scrubs are my daily outfit.",
+				"q36": "Yes, sanitized gear is required.",
+				"q37": "Yes, I use highly specialized surgical scalpels and instruments.",
+				"q38": "Yes, specific medical tools are essential.",
+				"q39": "Yes, it is historically a highly lucrative career.",
+				"q40": "Yes, surgeons generally make a very high salary.",
+				"q41": "Yes, applied human biology and science are fundamental.",
+				"q42": "Yes, I apply complex biology daily.",
+				"q43": "Yes, dealing with blood is a regular part of surgeries.",
+				"q44": "No, I cannot afford to be squeamish around bodily fluids.",
+				"q198": "Yes, doing precise surgical operations on patients is exactly what I do."
+			}
+		},
+		{
+			"job_title": "Firefighter",
+			"answers": {
+				"q3": "Yes, a great deal of our active calls take place outdoors.",
+				"q4": "Yes, I am exposed to extreme weather and environments.",
+				"q45": "Yes, heavy lifting of gear and individuals is required.",
+				"q46": "Yes, it requires immense strength and cardio.",
+				"q47": "Yes, heavy, specialized turnout gear is required.",
+				"q48": "Yes, helmets and heavy turnout boots are mandatory.",
+				"q49": "Yes, there are highly dangerous, life-threatening risks.",
+				"q50": "Yes, I literally put my life on the line.",
+				"q51": "Yes, driving or riding in a large fire engine is part of it.",
+				"q52": "Yes, we operate massive apparatuses.",
+				"q53": "Yes, interacting with citizens in emergencies is a core duty.",
+				"q54": "Yes, public service is our entire mission.",
+				"q55": "Yes, life-or-death teamwork is essential.",
+				"q56": "Yes, I rely heavily on my crew members.",
+				"q57": "Yes, 24-hour shifts and irregular schedules are standard.",
+				"q58": "Yes, shift rotations are complex.",
+				"q59": "Yes, extinguishing fires is a core function.",
+				"q60": "Yes, smoke and toxic fumes are massive hazards.",
+				"q199": "Yes, saving lives by fighting and putting out active fires is my exact job."
+			}
+		},
+		{
+			"job_title": "Comedian",
+			"answers": {
+				"q1": "Yes, venues and comedy clubs are almost always indoors.",
+				"q2": "Yes, usually inside entertainment spaces.",
+				"q13": "Yes, dress codes are generally non-existent or highly casual.",
+				"q14": "Yes, I can wear whatever I feel comfortable in on stage.",
+				"q53": "Yes, directly interacting with an audience is part of the performance.",
+				"q54": "Yes, I entertain everyday people.",
+				"q61": "Yes, I perform live on a stage.",
+				"q62": "Yes, stage spotlights are typical.",
+				"q63": "Yes, touring and traveling to different venues is common.",
+				"q64": "Yes, I travel to different cities for gigs.",
+				"q65": "Yes, shows are almost exclusively at night.",
+				"q66": "Yes, it is very much a nightlife career.",
+				"q67": "Yes, a microphone is critical to be heard.",
+				"q68": "Yes, my voice is amplified by the house sound system.",
+				"q69": "Yes, making people laugh is my primary function.",
+				"q70": "Yes, writing and executing jokes is literally the job."
+			}
+		},
+		{
+			"job_title": "Zookeeper",
+			"answers": {
+				"q3": "Yes, a massive portion of the shift is spent outdoors maintaining habitats.",
+				"q4": "Yes, I work outside regardless of weather conditions.",
+				"q7": "Yes, I am walking, lifting, and standing most of the day.",
+				"q8": "Yes, it is physically demanding on the lower body.",
+				"q25": "Yes, a facility-specific uniform is typically required.",
+				"q26": "Yes, the facility dictates standard logo shirts and work pants.",
+				"q45": "Yes, lifting feed bags and heavy habitat materials is common.",
+				"q46": "Yes, it is labor-intensive and exhausting.",
+				"q71": "Yes, taking care of wild animals is the entire focus.",
+				"q72": "Yes, I am surrounded by exotic creatures.",
+				"q73": "Yes, mud, grime, and animal waste make it a dirty job.",
+				"q74": "Yes, you generally want a shower right after a shift.",
+				"q75": "Somewhat, it mimics nature, though inside a managed park.",
+				"q76": "Yes, interacting with wildlife and their botanical environments."
+			}
+		},
+		{
+			"job_title": "Plumber",
+			"answers": {
+				"q1": "Usually, yes, though digging lines can sometimes take place outdoors.",
+				"q2": "Most repairs are inside a building.",
+				"q31": "Yes, fixing pipes requires heavy manual work.",
+				"q32": "Yes, manual dexterity in tight spaces is crucial.",
+				"q37": "Yes, I use specialized wrenches, pipe cutters, and diagnostic cameras.",
+				"q38": "Yes, carrying heavy toolboxes and parts is mandatory.",
+				"q45": "Yes, lifting heavy iron pipes and equipment happens often.",
+				"q46": "Yes, twisting and working in cramped positions is exhausting.",
+				"q63": "Yes, traveling between various client job locations daily.",
+				"q64": "Yes, driving across the local area constantly.",
+				"q73": "Yes, working around wastewater and grease gets dirty.",
+				"q74": "Yes, it is often a very messy job.",
+				"q77": "Yes, trade or vocational training is the standard route.",
+				"q78": "Yes, completing an apprenticeship is generally mandatory.",
+				"q79": "Not aquatic nature, but I deal directly with building water systems.",
+				"q80": "Yes, getting sprayed or wet by water is highly common."
+			}
+		},
+		{
+			"job_title": "Detective",
+			"answers": {
+				"q49": "Somewhat, there is definitely an elevated risk compared to an office job.",
+				"q50": "Occasionally, in dangerous high-stakes situations, though much time is paperwork.",
+				"q53": "Yes, interviewing witnesses, suspects, and civilians daily.",
+				"q54": "Yes, I serve victims and citizens to solve crimes.",
+				"q55": "Yes, collaborating with partners and forensics is critical.",
+				"q56": "Yes, having a trusted partner is standard protocol.",
+				"q63": "Yes, moving around town to investigate scenes.",
+				"q64": "Yes, field travel to different locations is constant.",
+				"q81": "Often yes, plainclothes detectives usually wear formal or business casual attire.",
+				"q82": "Yes, presenting a professional appearance is required.",
+				"q83": "Yes, I am authorized and required to carry a weapon.",
+				"q84": "Yes, carrying a badge and firearm is standard.",
+				"q85": "Yes, tracking and interrogating suspects and criminals.",
+				"q86": "Yes, criminal justice is my whole career focus.",
+				"q87": "Yes, much of the job involves driving or stakes-outs in a vehicle.",
+				"q88": "Somewhat, a vehicle serves as a rolling field office.",
+				"q195": "Yes, I split my time between crime scenes and an indoor desk.",
+				"q196": "Yes, the job fluidly moves between indoor offices and outdoor field environments."
+			}
+		},
+		{
+			"job_title": "Teacher",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, my primary workspace is inside a school.",
+				"q7": "Yes, I stand at the front of a room for most of the day.",
+				"q8": "Yes, hours of standing can tire your legs out.",
+				"q11": "Yes, a university degree and licensing are mandatory.",
+				"q12": "Yes, college training is a strict prerequisite.",
+				"q13": "Generally no, it is usually business casual, though some schools have casual Fridays.",
+				"q14": "Occasionally, depending on individual school dress codes.",
+				"q53": "Yes, constantly interacting with students, parents, and staff.",
+				"q54": "Yes, providing educational service to young citizens.",
+				"q89": "Yes, I work directly inside an educational facility.",
+				"q90": "Yes, classrooms are my main environment.",
+				"q91": "Yes, children or teens are my primary focus.",
+				"q92": "Yes, the young demographic makes up my classroom.",
+				"q93": "Yes, lecturing, explaining, and communicating takes up the whole day.",
+				"q94": "Yes, vocal strain is a very common issue."
+			}
+		},
+		{
+			"job_title": "Pilot",
+			"answers": {
+				"q1": "Yes, inside the cockpit of an aircraft.",
+				"q2": "Technically inside a vehicle structure, not a typical ground building.",
+				"q5": "Yes, the job requires remaining seated at the controls.",
+				"q6": "Yes, I am seated for the entire flight duration.",
+				"q25": "Yes, highly specific airline or corporate uniforms are mandatory.",
+				"q26": "Yes, the company dictates the exact uniform and pilot cap.",
+				"q39": "Yes, commercial airline pilots are historically very well paid.",
+				"q40": "Yes, senior captains make a high salary.",
+				"q57": "Yes, aviation schedules involve nights, weekends, and holidays.",
+				"q58": "Yes, my monthly roster changes continuously.",
+				"q63": "Yes, I travel globally or regionally for a living.",
+				"q64": "Yes, waking up in different cities is a normal occurrence.",
+				"q95": "Yes, I operate an advanced aerial vehicle.",
+				"q96": "Yes, transporting passengers or cargo safely is my primary duty.",
+				"q97": "Yes, miles up in the air.",
+				"q98": "Yes, the sky is my literal workspace."
+			}
+		},
+		{
+			"job_title": "Actor",
+			"answers": {
+				"q13": "When not filming, yes, but when working, my outfit is completely chosen for me.",
+				"q14": "Only if the character I am playing wears jeans.",
+				"q53": "Yes, interacting with production crews and audiences.",
+				"q54": "Yes, my final work is consumed by the public.",
+				"q61": "Yes, either on a live theatre stage or in front of a film set camera.",
+				"q62": "Yes, intense stage or set lighting is constant.",
+				"q63": "Often yes, traveling to various sets or locations for projects.",
+				"q64": "Yes, traveling for shoots or tours is common.",
+				"q99": "Yes, memorizing entire scripts is a baseline requirement.",
+				"q100": "Yes, extensive rehearsal of dialogue is mandatory.",
+				"q101": "Yes, it is entirely anchored in creative expression.",
+				"q102": "Yes, acting is a recognized branch of the arts.",
+				"q103": "Yes, the top echelon of the field achieves global fame.",
+				"q104": "Yes, public recognition and fans come with success.",
+				"q195": "Yes, depending on whether we are filming in a studio or on location.",
+				"q196": "Yes, it switches fluidly between indoor sets and outdoor locations."
+			}
+		},
+		{
+			"job_title": "Architect",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, my primary office is inside a building.",
+				"q5": "Yes, much of the time is spent drafting at a desk.",
+				"q6": "Yes, I am seated at a workspace for a majority of the time.",
+				"q9": "Yes, I use complex CAD software all day.",
+				"q10": "Yes, digital design stations are my main tool.",
+				"q11": "Yes, an accredited professional degree is required.",
+				"q12": "Yes, higher college education and licensing are mandatory.",
+				"q15": "Yes, in a standard professional design office.",
+				"q16": "Yes, I have a dedicated desk or drafting space.",
+				"q105": "Yes, structural mathematics and geometry are vital.",
+				"q106": "Yes, measuring, scaling, and calculating physics daily.",
+				"q107": "Yes, I structurally and visually design buildings.",
+				"q108": "Yes, planning the aesthetic and structural integrity of spaces is my core focus."
+			}
+		},
+		{
+			"job_title": "Astronaut",
+			"answers": {
+				"q41": "Yes, advanced scientific principles are fundamental to everything I do.",
+				"q42": "Yes, conducting scientific experiments in microgravity is a core duty.",
+				"q49": "Yes, spaceflight carries severe, life-threatening physical risks.",
+				"q50": "Yes, executing space missions means putting your life on the line.",
+				"q63": "Yes, intense travel for global training, and extreme travel into orbit.",
+				"q64": "Yes, I travel to international launch and training centers.",
+				"q81": "No, we wear specialized flight suits or pressurized spacesuits.",
+				"q82": "Only for official press events on Earth.",
+				"q95": "Yes, piloting or operating a spacecraft.",
+				"q96": "Yes, mission transportation and operations are key.",
+				"q97": "Yes, completely outside of Earth's atmosphere.",
+				"q98": "Yes, working in orbit far above the sky.",
+				"q109": "Yes, requiring rigorous physical, mental, and academic expertise.",
+				"q110": "Yes, handling split-second engineering problems in real-time.",
+				"q195": "Yes, working between terrestrial labs and an orbital craft.",
+				"q196": "Yes, moving from Earth-based facilities to extreme spacecraft environments."
+			}
+		},
+		{
+			"job_title": "Author",
+			"answers": {
+				"q1": "Yes, writing typically takes place indoors.",
+				"q2": "Yes, usually inside a home office or studio.",
+				"q5": "Somewhat, though many writers use standing desks to avoid sitting all day.",
+				"q6": "Usually, yes, as the job demands hours of typing.",
+				"q9": "Mostly, yes, unless drafting by hand or researching.",
+				"q10": "Yes, a computer or word processor is my primary tool.",
+				"q13": "Yes, if working independently, the dress code is entirely up to me.",
+				"q14": "Yes, total comfort is normal.",
+				"q101": "Yes, storytelling and writing require immense creativity.",
+				"q102": "Yes, creative writing is a classic form of art.",
+				"q111": "Yes, the actual act of writing is a solo endeavor.",
+				"q112": "Yes, long periods of isolation are required to produce work.",
+				"q113": "Yes, literature and language are my entire business.",
+				"q114": "Yes, I deal with words all day."
+			}
+		},
+		{
+			"job_title": "Bank Teller",
+			"answers": {
+				"q1": "Yes, I work entirely indoors.",
+				"q2": "Yes, my workplace is inside a retail bank branch.",
+				"q5": "Often yes, though some branches require standing at the counter.",
+				"q6": "Depending on the station, I am often seated or at a stool.",
+				"q15": "Yes, in a commercial financial building.",
+				"q16": "Yes, I have a specific teller window or desk space.",
+				"q25": "Yes, professional dress codes or branded uniforms are normal.",
+				"q26": "Yes, the corporate policy dictates acceptable attire.",
+				"q53": "Yes, interacting with customers face-to-face all day.",
+				"q54": "Yes, helping everyday citizens with cash and accounts.",
+				"q105": "Yes, precise basic mathematics and balancing ledger numbers is constant.",
+				"q106": "Yes, tracking currency counts all day.",
+				"q115": "Yes, securely handling large physical sums of cash is my primary task.",
+				"q116": "Yes, processing deposits and withdrawals is my exact job function."
+			}
+		},
+		{
+			"job_title": "Bartender",
+			"answers": {
+				"q1": "Yes, bars and lounges are almost entirely indoors.",
+				"q2": "Yes, inside an entertainment or dining building.",
+				"q7": "Yes, I am on my feet moving behind the bar for the entire shift.",
+				"q8": "Yes, standing and walking on hard floors is tiring.",
+				"q13": "Yes, casual or trendy clothing is common depending on the bar theme.",
+				"q14": "Yes, jeans are standard in many bars.",
+				"q21": "Yes, handling cocktail garnishes, ice, and ingredients.",
+				"q22": "Yes, preparing items for human consumption.",
+				"q53": "Yes, customer service and social interaction are continuous.",
+				"q54": "Yes, serving patrons directly.",
+				"q65": "Yes, late-night hours past midnight are standard.",
+				"q66": "Yes, my schedule operates primarily during the night owl hours.",
+				"q117": "Yes, crafting and serving alcoholic and non-alcoholic drinks.",
+				"q118": "Yes, liquids are my primary inventory.",
+				"q119": "Yes, music and crowd noise make bars very loud.",
+				"q120": "Yes, speaking loudly over music is often necessary."
+			}
+		},
+		{
+			"job_title": "Biologist",
+			"answers": {
+				"q11": "Yes, a scientific degree is a firm requirement.",
+				"q12": "Yes, a college science background is essential.",
+				"q37": "Yes, I use specialized lab or field gear.",
+				"q38": "Yes, carrying data loggers or sampling equipment.",
+				"q41": "Yes, life sciences are the cornerstone of the job.",
+				"q42": "Yes, testing hypotheses, analyzing biology, or evaluating chemistry.",
+				"q75": "Often yes, field biologists spend immense time out in nature.",
+				"q76": "Yes, analyzing living organisms and plants.",
+				"q109": "Yes, academic research requires high mental acuity.",
+				"q110": "Yes, analyzing complex biological trends and data datasets.",
+				"q121": "Yes, running assays or looking at samples.",
+				"q122": "Yes, microscopes and pipettes are standard tools.",
+				"q195": "Yes, balancing time between field collection and indoor lab work.",
+				"q196": "Yes, split between external tracking and indoor processing."
+			}
+		},
+		{
+			"job_title": "Carpenter",
+			"answers": {
+				"q7": "Yes, crafting and installing structures requires standing all day.",
+				"q8": "Yes, lifting lumber and staying mobile is tough on the legs.",
+				"q31": "Yes, using tools to shape materials is heavily hands-on.",
+				"q32": "Yes, precision with saws, chisels, and hand tools is mandatory.",
+				"q37": "Yes, specialized wood-cutting and measuring tools.",
+				"q38": "Yes, carrying a heavy tool belt and materials.",
+				"q45": "Yes, hauling heavy plywood and timber is expected.",
+				"q46": "Yes, a full day of framing or carpentry is exhausting.",
+				"q77": "Yes, trade or vocational paths are normal.",
+				"q78": "Yes, learning under a master carpenter via apprenticeship is standard.",
+				"q123": "Yes, wood is my primary material.",
+				"q124": "Yes, timber and wood fabrication is my exact specialty.",
+				"q195": "Yes, depending on whether I am in a shop or framing an outdoor build.",
+				"q196": "Yes, working indoor workshops or outdoor construction locations."
+			}
+		},
+		{
+			"job_title": "Chef",
+			"answers": {
+				"q1": "Yes, restaurant kitchens are entirely indoors.",
+				"q2": "Yes, inside a commercial building.",
+				"q7": "Yes, standing on hard kitchen lines for 10-12 hours is typical.",
+				"q8": "Yes, it puts massive physical stress on your feet and legs.",
+				"q21": "Yes, managing raw and cooked ingredients is my whole life.",
+				"q22": "Yes, preparing high-end culinary meals for people to eat.",
+				"q25": "Yes, chef coats, aprons, and non-slip footwear are required.",
+				"q26": "Yes, hygiene and safety dictate specific culinary clothing.",
+				"q27": "Yes, industrial ranges and grills make it incredibly hot.",
+				"q28": "Yes, sweating heavily on a busy dinner service rush is standard.",
+				"q29": "Yes, my active work home is a commercial kitchen.",
+				"q30": "Yes, hot lines, stoves, and salamanders surround me.",
+				"q125": "Yes, professional chef knives are my most crucial tools.",
+				"q126": "Yes, precision chopping, slicing, and dicing all shift."
+			}
+		},
+		{
+			"job_title": "Dentist",
+			"answers": {
+				"q1": "Yes, oral healthcare takes place fully indoors.",
+				"q2": "Yes, inside a medical or dental clinic office.",
+				"q5": "Somewhat, though I am often leaning over a patient while sitting on a stool.",
+				"q6": "Yes, mostly seated or crouched near the operating chair.",
+				"q11": "Yes, a doctorate in dental surgery/medicine is required.",
+				"q12": "Yes, extensive dental school training is mandatory.",
+				"q33": "Yes, inside a specialized dental clinic.",
+				"q34": "Yes, treating patients all day.",
+				"q35": "Yes, protective scrubs are standard uniform.",
+				"q36": "Yes, surgical masks, gloves, and scrubs are mandatory.",
+				"q37": "Yes, specialized dental drills, mirrors, and scalers.",
+				"q38": "Yes, utilizing highly precise hand instrumentation.",
+				"q39": "Yes, dentists typically command high compensation.",
+				"q40": "Yes, dental practices pull a strong financial salary.",
+				"q127": "Yes, looking closely into patients' mouths is my daily work.",
+				"q128": "Yes, diagnosing and treating human teeth is my exact domain."
+			}
+		},
+		{
+			"job_title": "Electrician",
+			"answers": {
+				"q7": "Yes, standing, climbing ladders, and pulling wire all day.",
+				"q8": "Yes, it is highly active and taxing on your lower body.",
+				"q31": "Yes, manual installation of circuitry is fully hands-on.",
+				"q32": "Yes, wiring micro-terminals requires excellent dexterity.",
+				"q37": "Yes, multimeters, wire strippers, and conduit benders.",
+				"q38": "Yes, carrying tool pouches and hardware.",
+				"q49": "Yes, working around live voltage presents life-threatening danger.",
+				"q50": "Somewhat, a single bad mistake with high voltage can be fatal.",
+				"q77": "Yes, trade or technical school paths are standard.",
+				"q78": "Yes, a structured, multi-year apprenticeship is legally required.",
+				"q129": "Yes, managing electrical systems and infrastructure.",
+				"q130": "Yes, electrocution is the primary safety risk of my profession.",
+				"q195": "Yes, wiring inside homes or tracking external commercial feeds.",
+				"q196": "Yes, split between internal structures and exposed rough-in sites."
+			}
+		},
+		{
+			"job_title": "Farmer",
+			"answers": {
+				"q3": "Yes, agriculture demands a massive amount of outdoor field work.",
+				"q4": "Yes, working through rain, heat, and seasonal changes.",
+				"q13": "Yes, rugged, casual utility clothes are the baseline.",
+				"q14": "Yes, heavy-duty work jeans are standard.",
+				"q23": "Yes, tending to crops or livestock starts before dawn.",
+				"q24": "Yes, managing daylight hours makes me a definitive morning person.",
+				"q45": "Yes, hauling hay, feed, or equipment components is normal heavy lifting.",
+				"q46": "Yes, farm labor is intensely exhausting.",
+				"q71": "Often yes, if managing livestock or dairy animals.",
+				"q72": "Yes, if running animal-centric farming operations.",
+				"q73": "Yes, dust, mud, soil, and organic materials make it filthy.",
+				"q74": "Yes, clean up after an active farm day is essential.",
+				"q75": "Yes, working directly with land and nature.",
+				"q76": "Yes, growing plants or managing animal wildlife populations.",
+				"q131": "Yes, operating agricultural tractors is highly common.",
+				"q132": "Yes, plowing, seeding, and harvesting fields using heavy machinery."
+			}
+		},
+		{
+			"job_title": "Flight Attendant",
+			"answers": {
+				"q1": "Yes, inside an airplane cabin.",
+				"q2": "Inside a mobile aviation vessel, not a stationary building.",
+				"q7": "Yes, standing and walking cabin aisles during flights.",
+				"q8": "Yes, staying balanced during turbulence is tough on your legs.",
+				"q25": "Yes, strict airline corporate uniforms are mandatory.",
+				"q26": "Yes, compliance with appearance guidelines is closely monitored.",
+				"q53": "Yes, managing hundreds of passengers every flight.",
+				"q54": "Yes, providing customer safety and service to flying citizens.",
+				"q57": "Yes, flight rotations mean irregular shift hours.",
+				"q58": "Yes, bidding on schedules creates a highly fluid timeline.",
+				"q63": "Yes, traveling long distances is the entire nature of the job.",
+				"q64": "Yes, flying to different domestic or international locations daily.",
+				"q97": "Yes, thousands of feet up in the air.",
+				"q98": "Yes, working inside a flying aircraft."
+			}
+		},
+		{
+			"job_title": "Florist",
+			"answers": {
+				"q1": "Yes, working primarily inside a flower retail shop or studio.",
+				"q2": "Yes, inside a standard building setting.",
+				"q7": "Yes, standing at a prep bench designing arrangements all day.",
+				"q8": "Yes, hours of standing can be tiring.",
+				"q13": "Yes, comfortable, functional casual wear is normal.",
+				"q14": "Yes, jeans and comfortable shoes are regular apparel.",
+				"q75": "Not wild nature, but I deal directly with cultivated natural products.",
+				"q76": "Yes, working intimately with plant life and flora.",
+				"q101": "Yes, arranging colors and structures requires strong aesthetic creativity.",
+				"q102": "Somewhat, floral design is considered a decorative art.",
+				"q133": "Yes, styling and organizing plant cuttings is my daily work.",
+				"q134": "Yes, creating custom bouquets and floral pieces.",
+				"q135": "Yes, the workspace smells like fresh vegetation and blossoms.",
+				"q136": "Yes, surrounded by natural fragrances."
+			}
+		},
+		{
+			"job_title": "Graphic Designer",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, in an office or a home studio.",
+				"q5": "Yes, digital asset creation involves sitting at a desk.",
+				"q6": "Yes, a vast majority of the time is spent seated.",
+				"q9": "Yes, staring at a high-res design monitor all day.",
+				"q10": "Yes, a computer and drawing tablet are my main assets.",
+				"q11": "Often preferred, though strong portfolios can override a degree.",
+				"q12": "Commonly, yes, for formal design principles.",
+				"q13": "Yes, design studios are generally highly casual.",
+				"q14": "Yes, casual jeans and t-shirts are acceptable.",
+				"q101": "Yes, visual asset creation requires high artistic creativity.",
+				"q102": "Yes, it is a prominent field of commercial art.",
+				"q107": "Yes, visually designing layouts, branding, and interfaces.",
+				"q108": "Yes, planning how digital or printed media will look is my core focus."
+			}
+		},
+		{
+			"job_title": "Hairdresser",
+			"answers": {
+				"q1": "Yes, styling takes place indoors within a salon.",
+				"q2": "Yes, inside a retail commercial building.",
+				"q7": "Yes, standing beside styling chairs for the entire shift.",
+				"q8": "Yes, staying upright all day takes a toll on your legs.",
+				"q13": "Yes, though usually fashionable casual attire.",
+				"q14": "Yes, comfortable stylish clothing or jeans are common.",
+				"q37": "Yes, shears, texturizers, and professional dryers.",
+				"q38": "Yes, holding styling tools continuously.",
+				"q53": "Yes, continuous face-to-face interaction with clients.",
+				"q54": "Yes, serving individual citizens directly.",
+				"q137": "Yes, cutting, treating, and styling hair is my business.",
+				"q138": "Yes, blow drying and styling hair daily.",
+				"q139": "Yes, using hair shears non-stop.",
+				"q140": "Yes, specialized scissors are my main tool."
+			}
+		},
+		{
+			"job_title": "Journalist",
+			"answers": {
+				"q9": "Yes, when writing or editing stories on a computer.",
+				"q10": "Yes, laptops are essential for reporting and drafting.",
+				"q11": "Yes, a communications or journalism degree is typical.",
+				"q12": "Yes, formal college training is standard.",
+				"q53": "Yes, interviewing sources and members of the public constantly.",
+				"q54": "Yes, reporting to keep the public citizenry informed.",
+				"q63": "Yes, chasing stories means frequent field travel.",
+				"q64": "Yes, tracking news occurrences down wherever they happen.",
+				"q141": "Yes, writing articles, columns, or broadcast text.",
+				"q142": "Yes, publishing verified information is the primary goal.",
+				"q143": "Yes, reporting on current social, political, or local events.",
+				"q144": "Yes, informing the public is the core mission statement.",
+				"q195": "Yes, splitting time between field reporting and writing at the desk.",
+				"q196": "Yes, active environments shift between on-scene coverage and indoor editing rooms."
+			}
+		},
+		{
+			"job_title": "Judge",
+			"answers": {
+				"q1": "Yes, legal proceedings occur fully indoors.",
+				"q2": "Yes, inside a municipal or federal courthouse building.",
+				"q5": "Yes, presiding over a courtroom requires sitting at the bench.",
+				"q6": "Yes, I am seated for a large portion of the active court session.",
+				"q11": "Yes, a law degree (JD) and extensive legal career are mandatory.",
+				"q12": "Yes, extensive university and law school education is required.",
+				"q39": "Yes, judges generally command a high professional salary.",
+				"q40": "Yes, the financial compensation reflects the high authority.",
+				"q53": "Yes, interacting with attorneys, juries, and citizens in court.",
+				"q54": "Yes, administering justice for the public.",
+				"q81": "Yes, under the judicial robe, professional attire is required.",
+				"q82": "Yes, formal attire topped by a traditional judicial robe.",
+				"q145": "Yes, interpreting and enforcing legal statutes is my entire job.",
+				"q146": "Yes, the courtroom justice ecosystem is my domain.",
+				"q147": "Yes, I use a traditional wooden mallet to maintain order.",
+				"q148": "Yes, striking a gavel to call order or finalize rulings is my unique duty."
+			}
+		},
+		{
+			"job_title": "Librarian",
+			"answers": {
+				"q1": "Yes, I work fully indoors.",
+				"q2": "Yes, inside a public or academic library building.",
+				"q5": "Somewhat, balancing desk work with archiving.",
+				"q6": "Yes, a solid portion of the time is spent seated at reference desks.",
+				"q11": "Yes, a Master's degree in Library Science is typically required.",
+				"q12": "Yes, professional higher education is mandatory.",
+				"q13": "Yes, usually modest business casual or casual attire.",
+				"q14": "Often yes, depending on the library system guidelines.",
+				"q53": "Yes, helping patrons locate resources and information.",
+				"q54": "Yes, assisting community citizens daily.",
+				"q113": "Yes, managing books, literature, and digital archives.",
+				"q114": "Yes, surrounded by cataloged written media.",
+				"q149": "Yes, maintaining a quiet, focused environment is standard.",
+				"q150": "Occasionally, yes, helping maintain a respectful volume level in the space."
+			}
+		},
+		{
+			"job_title": "Lifeguard",
+			"answers": {
+				"q3": "Yes, outdoor pools or beach environments are common.",
+				"q4": "Yes, exposed directly to sun, wind, and heat.",
+				"q5": "Yes, sitting in an elevated observation chair for surveillance.",
+				"q6": "Yes, remaining seated on watch for long rotations.",
+				"q25": "Yes, high-visibility swim attire or uniforms are required.",
+				"q26": "Yes, specific red/yellow guard apparel is mandated.",
+				"q49": "Somewhat, while vigilant, rescuing drowning individuals can become hazardous.",
+				"q50": "Occasionally, entering treacherous surf to save a life presents risk.",
+				"q79": "Yes, working directly beside pools, lakes, or oceans.",
+				"q80": "Yes, entering water for rescues or drills is expected.",
+				"q151": "Yes, using a whistle to signal swimmers or call for backup.",
+				"q152": "Yes, a loud safety whistle is worn around my neck constantly.",
+				"q153": "Yes, if proper sun protection isn't continuously applied.",
+				"q154": "Yes, heavy daily UV exposure is part of the job environment."
+			}
+		},
+		{
+			"job_title": "Magician",
+			"answers": {
+				"q53": "Yes, entertaining spectators directly is the point.",
+				"q54": "Yes, performing illusions for everyday audiences.",
+				"q61": "Yes, on stages or close-up floor performances.",
+				"q62": "Yes, theatrical performance lighting is typical.",
+				"q63": "Yes, traveling between event bookings and venues.",
+				"q64": "Yes, moving from gig to gig across locations.",
+				"q81": "Often yes, formal suits or tuxedos are classic performance wear.",
+				"q82": "Yes, dressing sharply enhances the theatrical presentation.",
+				"q101": "Yes, designing illusions requires high creative problem solving.",
+				"q102": "Yes, magic is considered a specialized performing art.",
+				"q155": "Yes, performing illusions and sleight of hand is my trade.",
+				"q156": "Yes, intentionally tricking the audience's perception for entertainment.",
+				"q157": "Yes, card mechanics and manipulation are highly common.",
+				"q158": "Yes, decks of cards are a staple tool of my craft.",
+				"q195": "Yes, performing in indoor theaters or outdoor street festivals.",
+				"q196": "Yes, the performance setting changes based on booking types."
+			}
+		},
+		{
+			"job_title": "Marine Biologist",
+			"answers": {
+				"q3": "Yes, spending substantial time conducting oceanic or coastal field research.",
+				"q4": "Yes, exposed to maritime environments and weather.",
+				"q11": "Yes, specialized higher university degrees are required.",
+				"q12": "Yes, a college marine science track is mandatory.",
+				"q41": "Yes, rigorous scientific methodology is the standard.",
+				"q42": "Yes, analyzing marine biology and ocean chemistry dynamics.",
+				"q63": "Yes, traveling to marine research vessels or coastal field stations.",
+				"q64": "Yes, field excursions take me to varied aquatic regions.",
+				"q71": "Yes, observing, tracking, or studying ocean fauna.",
+				"q72": "Yes, focused entirely on aquatic life.",
+				"q79": "Yes, oceans, seas, and coastal environments are my workspace.",
+				"q80": "Yes, working on boats or diving means getting wet.",
+				"q159": "Yes, diving or swimming to collect samples is often required.",
+				"q160": "Yes, strong swimming and SCUBA capabilities are mandatory."
+			}
+		},
+		{
+			"job_title": "Mechanic",
+			"answers": {
+				"q1": "Yes, auto repair shops are almost entirely indoors.",
+				"q2": "Yes, inside a commercial service garage.",
+				"q7": "Yes, moving around vehicles and engine bays all shift.",
+				"q8": "Yes, standing, bending, and crouching is heavy on the legs.",
+				"q37": "Yes, diagnostic scanners, air wrenches, and hand tools.",
+				"q38": "Yes, lifting heavy mechanical parts and tools.",
+				"q45": "Yes, moving tires, brake rotors, and engine components.",
+				"q46": "Yes, manual mechanical labor is tiring.",
+				"q73": "Yes, motor oil, grease, and road grime are guaranteed.",
+				"q74": "Yes, cleaning grease off your hands and skin after a shift is standard.",
+				"q77": "Yes, automotive trade school certification is standard.",
+				"q78": "Yes, hands-on training or apprenticeship paths are typical.",
+				"q161": "Yes, fixing automotive vehicles is my entire focus.",
+				"q162": "Yes, surrounded by cars, trucks, and engines."
+			}
+		},
+		{
+			"job_title": "Musician",
+			"answers": {
+				"q13": "Yes, casual or expressive clothing is standard depending on the genre.",
+				"q14": "Yes, jeans are classic performance attire.",
+				"q61": "Yes, performing live sets on stages or in studios.",
+				"q62": "Yes, stage spotlights are standard.",
+				"q63": "Yes, touring from venue to venue requires significant travel.",
+				"q64": "Yes, gigging in multiple locations.",
+				"q65": "Yes, most live music events happen at night.",
+				"q66": "Yes, late evening hours are normal work hours.",
+				"q101": "Yes, composing and playing music is a deeply creative act.",
+				"q102": "Yes, music is a definitive core art form.",
+				"q163": "Yes, playing an instrument or writing music is my career.",
+				"q164": "Yes, a guitar, piano, or other instrument is my primary tool.",
+				"q195": "Yes, playing inside concert halls or at outdoor festivals.",
+				"q196": "Yes, changing fluidly between indoor studios and external show stages."
+			}
+		},
+		{
+			"job_title": "Nurse",
+			"answers": {
+				"q1": "Yes, nursing occurs inside hospitals or clinics.",
+				"q2": "Yes, inside a medical facility building.",
+				"q7": "Yes, 12-hour shifts are spent walking corridors and floors.",
+				"q8": "Yes, being on your feet all shift is highly grueling on the legs.",
+				"q11": "Yes, a nursing degree (ADN or BSN) is mandatory.",
+				"q12": "Yes, formal college nursing education is legally required.",
+				"q33": "Yes, inside a clinical healthcare facility.",
+				"q34": "Yes, directly monitoring and treating patients.",
+				"q35": "Yes, medical scrubs are my mandatory daily wear.",
+				"q36": "Yes, protective clinical scrubs and PPE are standard.",
+				"q43": "Yes, dealing with blood and clinical samples is normal.",
+				"q44": "No, you cannot be squeamish around bodily fluids in patient care.",
+				"q53": "Yes, continuous direct communication with patients and families.",
+				"q54": "Yes, caring for public citizens in need of medical help.",
+				"q57": "Yes, rotating night, weekend, and holiday shifts are standard.",
+				"q58": "Yes, healthcare shifts run on irregular 24/7 rotations."
+			}
+		},
+		{
+			"job_title": "Painter",
+			"answers": {
+				"q7": "Yes, standing at easels or walls to apply media all day.",
+				"q8": "Yes, remaining standing while working can tire your legs.",
+				"q13": "Yes, highly informal, practical clothes are standard.",
+				"q14": "Yes, old jeans are the ultimate studio gear.",
+				"q31": "Yes, manually manipulating brushes and canvas is fully hands-on.",
+				"q32": "Yes, physical brush control demands strong dexterity.",
+				"q37": "Yes, brushes, palettes, knives, and spray apparatus.",
+				"q38": "Yes, setting up canvas and paint stock.",
+				"q73": "Yes, paint splatters and solvent smells are common.",
+				"q74": "Yes, cleaning medium residue off hands is typical.",
+				"q101": "Yes, visual fine art requires high creative vision.",
+				"q102": "Yes, painting is a definitive fine art discipline.",
+				"q165": "Yes, applying paint to surfaces is my primary job.",
+				"q166": "Yes, my work clothes are covered in colorful paint stains.",
+				"q195": "Yes, working in an indoor studio or painting landscapes outdoors.",
+				"q196": "Yes, split between internal work rooms and outdoor settings."
+			}
+		},
+		{
+			"job_title": "Paramedic",
+			"answers": {
+				"q25": "Yes, emergency responder uniforms are mandatory.",
+				"q26": "Yes, strict tactical responder attire is required.",
+				"q33": "Yes, transporting patients directly to medical facilities.",
+				"q34": "Yes, treating emergency medical patients in the field.",
+				"q43": "Yes, dealing with traumatic blood injuries is common.",
+				"q44": "No, managing critical trauma fluids is part of emergency care.",
+				"q49": "Yes, responding to active accident scenes carries real physical danger.",
+				"q50": "Somewhat, field environments can occasionally be unpredictable and hazardous.",
+				"q57": "Yes, emergency medicine runs on continuous shift rotations.",
+				"q58": "Yes, erratic night and weekend shifts are standard.",
+				"q63": "Yes, driving an emergency vehicle to calls constantly.",
+				"q64": "Yes, covering a whole regional city map during a shift.",
+				"q95": "Yes, operating an emergency ambulance vehicle.",
+				"q96": "Yes, emergency transit and trauma treatment is the job.",
+				"q195": "Yes, treating patients inside homes, vehicles, or outdoors before transport.",
+				"q196": "Yes, rapidly moving from uncontrolled outdoor scenes to the back of a rig."
+			}
+		},
+		{
+			"job_title": "Pharmacist",
+			"answers": {
+				"q1": "Yes, I work fully indoors.",
+				"q2": "Yes, inside a clinical or retail pharmacy building.",
+				"q7": "Yes, standing behind prescription counters for most of the shift.",
+				"q8": "Yes, it is surprisingly demanding on your lower body.",
+				"q11": "Yes, a professional Doctor of Pharmacy (PharmD) degree is required.",
+				"q12": "Yes, extensive university pharmaceutical education is mandatory.",
+				"q25": "Yes, a clean professional dress code or white pharmacy coat is required.",
+				"q26": "Yes, corporate clinical attire rules apply.",
+				"q33": "Yes, within a retail pharmacy or clinical hospital department.",
+				"q34": "Yes, consulting with medical patients daily.",
+				"q41": "Yes, chemistry, biology, and pharmacology are the core of the job.",
+				"q42": "Yes, evaluating complex biochemical interactions.",
+				"q167": "Yes, dispensing and reviewing prescription medications is my exact role.",
+				"q168": "Yes, ensuring safe patient medication use is my focus."
+			}
+		},
+		{
+			"job_title": "Photographer",
+			"answers": {
+				"q13": "Yes, flexible casual clothes are common for mobility.",
+				"q14": "Yes, jeans and sneakers are a standard shooting uniform.",
+				"q37": "Yes, specialized cameras, lenses, and lighting rigs.",
+				"q38": "Yes, hauling camera bags and tripods to shoots.",
+				"q63": "Yes, traveling to client locations or shoots is normal.",
+				"q64": "Yes, changing shooting locations frequently.",
+				"q101": "Yes, capturing images requires a highly creative artistic eye.",
+				"q102": "Yes, photography is a well-established visual art.",
+				"q169": "Yes, capturing professional photographic images is my livelihood.",
+				"q170": "Yes, optical camera lenses are my primary tool.",
+				"q171": "Yes, focusing lenses precisely to catch a shot.",
+				"q172": "Yes, constantly checking framing through a viewfinder or screen.",
+				"q195": "Yes, working in an indoor studio or shooting outdoor events.",
+				"q196": "Yes, moving back and forth between enclosed studios and natural lighting sites."
+			}
+		},
+		{
+			"job_title": "Police Officer",
+			"answers": {
+				"q25": "Yes, strict department uniforms are mandatory.",
+				"q26": "Yes, exact regulation tactical uniform and gear must be worn.",
+				"q49": "Yes, law enforcement carries inherent life-threatening dangers.",
+				"q50": "Yes, responding to criminal incidents means putting your life on the line.",
+				"q53": "Yes, continuous interaction with the general civilian public.",
+				"q54": "Yes, protecting and serving citizens is the main mandate.",
+				"q57": "Yes, police departments run on 24/7 rotating shifts.",
+				"q58": "Yes, schedule variations are standard.",
+				"q63": "Yes, patrolling a designated district or city.",
+				"q64": "Yes, driving across the assigned city sector all day.",
+				"q83": "Yes, I am armed with standard-issue department weapons.",
+				"q84": "Yes, carrying a service firearm is required.",
+				"q95": "Yes, operating a patrol vehicle.",
+				"q96": "Yes, traffic control and mobile patrol are core duties.",
+				"q195": "Yes, patrolling outdoor streets or responding to indoor business calls.",
+				"q196": "Yes, moving instantly from a cruiser into a variety of indoor and outdoor environments."
+			}
+		},
+		{
+			"job_title": "Politician",
+			"answers": {
+				"q1": "Yes, legislative and campaign work is heavily indoors.",
+				"q2": "Yes, inside government buildings and offices.",
+				"q11": "Not legally, though higher education is common in the field.",
+				"q12": "Commonly yes, many have law or political science backgrounds.",
+				"q39": "Yes, higher-level offices are generally very well compensated.",
+				"q40": "Yes, successful politicians command strong salaries and perks.",
+				"q53": "Yes, public relations and speaking with constituents is constant.",
+				"q54": "Yes, representing voters and citizens is the definition of the job.",
+				"q63": "Yes, traveling for campaigns, events, and sessions is required.",
+				"q64": "Yes, visiting varied regions to meet the public.",
+				"q81": "Yes, strict professional suits and ties are expected standard wear.",
+				"q82": "Yes, presenting a highly polished, professional appearance is critical.",
+				"q93": "Yes, speeches, meetings, and debates take up most of the schedule.",
+				"q94": "Yes, extensive talking can easily strain your throat."
+			}
+		},
+		{
+			"job_title": "Real Estate Agent",
+			"answers": {
+				"q53": "Yes, client interaction is the lifeblood of the business.",
+				"q54": "Yes, helping citizens buy and sell homes.",
+				"q63": "Yes, traveling between property listings daily.",
+				"q64": "Yes, driving all over the local region to show homes.",
+				"q81": "Yes, sharp professional or high-end business casual attire is standard.",
+				"q82": "Yes, professional dress is critical for building client trust.",
+				"q93": "Yes, negotiating, talking on the phone, and presenting listings all day.",
+				"q94": "Yes, vocal communication is non-stop.",
+				"q173": "Yes, brokering the sale of residential or commercial houses is my exact job.",
+				"q174": "Yes, walking buyers through properties daily.",
+				"q175": "Yes, earnings are entirely dependent on percentage sales commissions.",
+				"q176": "Yes, closing real estate transactions is the primary target.",
+				"q195": "Yes, sitting at an office desk or walking through properties.",
+				"q196": "Yes, splitting time between indoor administrative offices and field showings."
+			}
+		},
+		{
+			"job_title": "Receptionist",
+			"answers": {
+				"q1": "Yes, I work entirely indoors.",
+				"q2": "Yes, my workspace is located inside an office lobby.",
+				"q5": "Yes, welcoming visitors requires sitting at a front desk.",
+				"q6": "Yes, I am seated at my station for a vast majority of the shift.",
+				"q9": "Yes, logging visitors and scheduling on a screen.",
+				"q10": "Yes, computers and phone consoles are my main tools.",
+				"q13": "Usually no, professional business casual is standard.",
+				"q14": "Generally no, unless the company specifically has casual apparel policies.",
+				"q15": "Yes, located inside a standard commercial office setting.",
+				"q16": "Yes, I have a dedicated reception desk space.",
+				"q53": "Yes, I am the first point of face-to-face contact for incoming public visitors.",
+				"q54": "Yes, greeting and assisting citizens arriving at the business.",
+				"q177": "Yes, answering and routing corporate phone lines all day.",
+				"q178": "Yes, a telephone headset is standard equipment for managing calls."
+			}
+		},
+		{
+			"job_title": "Scientist",
+			"answers": {
+				"q1": "Yes, academic and industrial research is heavily indoors.",
+				"q2": "Yes, inside a research center or building complex.",
+				"q11": "Yes, advanced scientific degrees (Master's or PhD) are standard.",
+				"q12": "Yes, extensive university laboratory education is mandatory.",
+				"q37": "Yes, spectrometers, centrifuges, and analytical tools.",
+				"q38": "Yes, managing specialized test equipment.",
+				"q41": "Yes, applying the scientific method is my full occupation.",
+				"q42": "Yes, running structured experiments in chemistry, biology, or physics.",
+				"q109": "Yes, abstract data modeling requires deep intellectual work.",
+				"q110": "Yes, solving complex academic or empirical problems.",
+				"q121": "Yes, analytical work takes place in a clean laboratory.",
+				"q122": "Yes, beakers, pipettes, and advanced microscopes surround me.",
+				"q179": "Yes, wearing a protective white lab coat is standard safety protocol.",
+				"q180": "Yes, a white coat is my typical cleanroom uniform."
+			}
+		},
+		{
+			"job_title": "Singer",
+			"answers": {
+				"q53": "Yes, performing for public audiences.",
+				"q54": "Yes, entertaining people with vocal music.",
+				"q61": "Yes, performing live on venue or theater stages.",
+				"q62": "Yes, stage performance lighting is normal.",
+				"q63": "Yes, touring requires moving between cities.",
+				"q64": "Yes, traveling for performance bookings.",
+				"q65": "Yes, concerts are typically evening or night events.",
+				"q66": "Yes, late show times are common.",
+				"q67": "Yes, singing into a microphone to amplify sound.",
+				"q68": "Yes, a microphone is my primary performance tool.",
+				"q101": "Yes, vocal performance is highly creative.",
+				"q102": "Yes, a vocalist is explicitly a musical artist.",
+				"q181": "Yes, my human voice is my primary musical instrument.",
+				"q182": "Yes, intensive vocal warmups are mandatory to prevent injury.",
+				"q195": "Yes, recording in indoor studios or performing at outdoor arenas.",
+				"q196": "Yes, shifting between indoor tracking rooms and variable outdoor festival stages."
+			}
+		},
+		{
+			"job_title": "Soldier",
+			"answers": {
+				"q3": "Yes, tactical training and field operations are heavily outdoors.",
+				"q4": "Yes, exposed to severe climates and rugged terrain.",
+				"q25": "Yes, mandatory military utility uniforms are required.",
+				"q26": "Yes, strict regulation dress codes are heavily enforced.",
+				"q45": "Yes, carrying heavy rucksacks, armor, and tactical gear.",
+				"q46": "Yes, military field exercises are deeply exhausting.",
+				"q49": "Yes, combat deployments present high, life-threatening dangers.",
+				"q50": "Yes, serving in the armed forces can mean putting your life on the line.",
+				"q55": "Yes, relying on your squad or unit is absolute.",
+				"q56": "Yes, operational success relies entirely on your team members.",
+				"q63": "Yes, deployments and base reassignments mean frequent travel.",
+				"q64": "Yes, stationed in different domestic or international areas.",
+				"q83": "Yes, I am fully trained and armed with military weapons.",
+				"q84": "Yes, carrying service weaponry is a standard deployment requirement.",
+				"q183": "Yes, maintaining high physical fitness standard metrics is mandatory.",
+				"q184": "Yes, combat readiness requires continuous body conditioning."
+			}
+		},
+		{
+			"job_title": "Tailor",
+			"answers": {
+				"q1": "Yes, garment alteration takes place indoors.",
+				"q2": "Yes, inside a workshop or design building.",
+				"q5": "Yes, operating sewing machinery requires sitting all day.",
+				"q6": "Yes, a major portion of the shift is spent seated at a machine.",
+				"q31": "Yes, cutting and aligning fabrics is highly hands-on.",
+				"q32": "Yes, pinning and sewing require exceptional manual dexterity.",
+				"q37": "Yes, sewing machines, shears, and specialized measuring tools.",
+				"q38": "Yes, handling heavy fabric bolts and equipment pins.",
+				"q101": "Yes, pattern design and fashion styling require creative eyes.",
+				"q102": "Somewhat, apparel design is a functional textile art.",
+				"q185": "Yes, altering and producing custom clothing garments is my trade.",
+				"q186": "Yes, machine and hand sewing fabrics daily.",
+				"q187": "Yes, utilizing a needle and thread is fundamental.",
+				"q188": "Yes, avoiding sharp pins and sewing needles requires careful focus."
+			}
+		},
+		{
+			"job_title": "Taxi Driver",
+			"answers": {
+				"q1": "Yes, working inside the cabin of a vehicle.",
+				"q2": "Inside a mobile automobile, not a fixed building structure.",
+				"q5": "Yes, the job demands remaining behind the wheel all shift.",
+				"q6": "Yes, I am seated driving for the vast majority of the day.",
+				"q13": "Yes, driver dress codes are typically highly casual.",
+				"q14": "Yes, jeans and comfortable driving shoes are normal.",
+				"q53": "Yes, picking up and dropping off different passengers all day.",
+				"q54": "Yes, providing transit services to transit citizens.",
+				"q63": "Yes, constantly moving throughout the municipal area.",
+				"q64": "Yes, navigating different parts of the urban landscape.",
+				"q95": "Yes, operating a commercial passenger automobile.",
+				"q96": "Yes, city public transportation is my main duty.",
+				"q161": "Yes, my active work life centers inside an automobile.",
+				"q162": "Yes, surrounded by road traffic and cars.",
+				"q189": "Yes, navigating complex city traffic networks all shift.",
+				"q190": "Yes, an urban environment is my primary workplace map."
+			}
+		},
+		{
+			"job_title": "Veterinarian",
+			"answers": {
+				"q1": "Yes, animal medical treatment takes place indoors.",
+				"q2": "Yes, inside an animal hospital or clinic.",
+				"q7": "Yes, standing during animal exams and surgical procedures.",
+				"q8": "Yes, being active around animal bays is tiring on the legs.",
+				"q11": "Yes, a professional Doctor of Veterinary Medicine (DVM) is required.",
+				"q12": "Yes, intensive higher veterinary college tracks are mandatory.",
+				"q33": "Yes, inside a specialized veterinary clinic facility.",
+				"q34": "Not human patients, but animal patients fill my day.",
+				"q35": "Yes, clinical protective scrubs are standard uniform.",
+				"q36": "Yes, clean scrubs are required during operations.",
+				"q37": "Yes, specialized animal medical tools and diagnostic scopes.",
+				"q38": "Yes, utilizing medical tools.",
+				"q41": "Yes, animal biology and veterinary medical science are core.",
+				"q42": "Yes, applying veterinary medicine and animal chemistry daily.",
+				"q71": "Yes, diagnosing and treating animal health issues is my whole career.",
+				"q72": "Yes, working directly with pets and domestic creatures."
+			}
+		},
+		{
+			"job_title": "Waiter",
+			"answers": {
+				"q1": "Yes, dining rooms are almost entirely indoors.",
+				"q2": "Yes, inside a restaurant building.",
+				"q7": "Yes, walking tables and standing all shift.",
+				"q8": "Yes, walking several miles an evening on hard floors tires your legs.",
+				"q21": "Yes, running meals and managing food service items is standard.",
+				"q22": "Yes, serving culinary items for people to eat.",
+				"q25": "Yes, specific restaurant service uniforms are required.",
+				"q26": "Yes, the house policy dictates exact serving apparel codes.",
+				"q53": "Yes, continuous direct table customer service interaction.",
+				"q54": "Yes, serving dining patrons.",
+				"q57": "Yes, restaurant hours include variable evening and weekend shifts.",
+				"q58": "Yes, weak-to-week schedule updates are common.",
+				"q191": "Yes, cash tips make up a significant portion of my actual earnings.",
+				"q192": "Yes, service gratuities are a standard expectation.",
+				"q193": "Yes, balancing multiple heavy plates on a tray at once.",
+				"q194": "Yes, dropping off freshly cooked meals to dining tables."
+			}
+		}
+	]
+}

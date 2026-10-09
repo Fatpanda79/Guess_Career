@@ -1,0 +1,40 @@
+[gd_scene format=3 uid="uid://d0o0fqthsv7gu"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5ptmv"]
+bg_color = Color(0.207837, 0.411574, 0.356735, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_pxew1"]
+bg_color = Color(0.339036, 0.614975, 0.539406, 1)
+
+[node name="Node2D" type="Node2D" unique_id=293473301]
+
+[node name="ui" type="Control" parent="." unique_id=655690199]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 1152.0
+offset_bottom = 644.0
+
+[node name="ScrollContainer" type="ScrollContainer" parent="ui" unique_id=1309752086]
+layout_mode = 0
+offset_left = 154.0
+offset_top = 91.0
+offset_right = 1001.0
+offset_bottom = 592.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ui/ScrollContainer" unique_id=1970118495]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Button" type="Button" parent="ui/ScrollContainer/VBoxContainer" unique_id=1154096410]
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxFlat_5ptmv")
+theme_override_styles/hover = SubResource("StyleBoxFlat_pxew1")
+text = "Label 1"
+alignment = 0
+
+[node name="VScrollBar" type="VScrollBar" parent="." unique_id=1387362965]
+offset_left = 999.0
+offset_top = 92.0
+offset_right = 1020.0
+offset_bottom = 488.0

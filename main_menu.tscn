@@ -1,0 +1,374 @@
+[gd_scene format=3 uid="uid://dfds0o7ambxwu"]
+
+[ext_resource type="Script" uid="uid://8ndoxrdh52kk" path="res://main_menu.gd" id="1_qe12f"]
+[ext_resource type="Script" uid="uid://cfbxvuhfesffy" path="res://Player.gd" id="2_glbon"]
+[ext_resource type="ArrayMesh" uid="uid://dohnbexwtcq08" path="res://models/playercap.res" id="3_nlkkf"]
+[ext_resource type="ArrayMesh" uid="uid://dyx2hs64sbdn0" path="res://models/stair.res" id="4_qe12f"]
+[ext_resource type="ArrayMesh" uid="uid://k33yrbxuklbu" path="res://models/body.res" id="5_0o4t1"]
+[ext_resource type="Texture2D" uid="uid://bsurv81lud4v1" path="res://Ui/pause.png" id="5_nlkkf"]
+[ext_resource type="FontFile" uid="uid://b1p5rusddfc72" path="res://Ui/ArchivoBlack-Regular.ttf" id="6_qe12f"]
+[ext_resource type="ArrayMesh" uid="uid://gt8eniw0c01t" path="res://models/head.res" id="8_0k4wn"]
+[ext_resource type="ArrayMesh" uid="uid://bxstiubr6dph0" path="res://models/Pant.res" id="9_j5v2v"]
+[ext_resource type="ArrayMesh" uid="uid://buoph1uxlria1" path="res://models/cap.res" id="10_iotk1"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_8qtwp"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_dy7ct"]
+albedo_color = Color(0.907252, 0.714239, 0.683023, 1)
+emission_enabled = true
+emission = Color(0.42641154, 0.3426998, 0.38787222, 1)
+
+[sub_resource type="Environment" id="Environment_jix8l"]
+background_mode = 1
+background_color = Color(8.278489e-06, 0.582847, 0.77308875, 1)
+ambient_light_source = 2
+ambient_light_color = Color(1, 1, 1, 1)
+glow_enabled = true
+glow_normalized = true
+glow_intensity = 0.5
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_8qtwp"]
+bg_color = Color(0.3822173, 0.36912984, 0.34503895, 1)
+border_width_top = 1
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.20871013, 0.20871016, 0.20870999, 1)
+corner_detail = 10
+
+[sub_resource type="SystemFont" id="SystemFont_dy7ct"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0o4t1"]
+bg_color = Color(0.49019608, 0.078431375, 1, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.18998978, 0.0004465571, 0.42055205, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qe12f"]
+bg_color = Color(0.25359404, 0.0007912214, 0.5509491, 1)
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_0k4wn"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_j5v2v"]
+bg_color = Color(0.49019608, 0.078431375, 1, 1)
+corner_detail = 1
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_w44g7"]
+albedo_color = Color(1, 0, 0.37187055, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8u0te"]
+albedo_color = Color(0.91486984, 0.5429426, 0.2012454, 1)
+
+[node name="Main_menu" type="Node3D" unique_id=1616551981]
+script = ExtResource("1_qe12f")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1099924446]
+transform = Transform3D(50, 0, 0, 0, 0.1, 0, 0, 0, 20, 0.47565794, 0, -5.78243)
+mesh = SubResource("BoxMesh_8qtwp")
+surface_material_override/0 = SubResource("StandardMaterial3D_dy7ct")
+
+[node name="SpotLight3D" type="SpotLight3D" parent="." unique_id=1500086681]
+transform = Transform3D(-0.0108298, -0.57437, 0.8185241, -0.206186, 0.802264, 0.56023204, -0.978453, -0.16270101, -0.12711541, 9.91637, 4.44286, 0.279068)
+light_color = Color(1, 1, 0.34902, 1)
+light_energy = 20.0
+light_size = 0.727
+shadow_enabled = true
+spot_range = 11.6225
+spot_angle = 37.73
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1490349020]
+transform = Transform3D(1, 0, 0, 0, 0.9081358, 0.41867593, 0, -0.4186759, 0.9081358, 4.127595, 4.6776, 11.516)
+light_energy = 1.5
+
+[node name="Stair" type="MeshInstance3D" parent="." unique_id=1617871865]
+transform = Transform3D(0.97709, 0, 0.212826, 0, 1, 0, -0.212826, 0, 0.97709, 2.122181, 1.97642, 0.273375)
+mesh = ExtResource("4_qe12f")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=605053053]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0237505, 4.19363, 7.44878)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1310147723]
+environment = SubResource("Environment_jix8l")
+
+[node name="CanvasLayer3" type="CanvasLayer" parent="." unique_id=646048132]
+
+[node name="Control" type="Control" parent="CanvasLayer3" unique_id=1332878636]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -578.5
+offset_top = -323.5
+offset_right = 578.5
+offset_bottom = 323.5
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 1
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer3/Control" unique_id=586428843]
+texture_filter = 2
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -367.5
+offset_top = -201.0
+offset_right = 385.5
+offset_bottom = 199.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("5_nlkkf")
+
+[node name="tips" type="Label" parent="CanvasLayer3/Control/TextureRect" unique_id=815338241]
+layout_mode = 0
+offset_left = 37.0
+offset_top = 47.0
+offset_right = 965.0
+offset_bottom = 378.0
+theme_override_colors/font_color = Color(0.1882353, 0, 0.41960785, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 20
+text = "Press Ask button to ask question.Click question to choose
+Press Guess button to see all the listed jobs
+
+Difficulty:
+1. Easy mode : You will get 5 minutes and you can have
+ 15 guess.
+2. Medium mode : You will get 3 minutes and 30 seconds ,
+and you can have 10 guess
+3. Hard mode : You will get 2 minutes and you can have 3 
+guess"
+
+[node name="crossbtn" type="Button" parent="CanvasLayer3/Control/TextureRect" unique_id=2007409629]
+texture_filter = 3
+layout_mode = 0
+offset_left = 686.0
+offset_top = 8.0
+offset_right = 715.0
+offset_bottom = 33.0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_8qtwp")
+
+[node name="crosslbl" type="Label" parent="CanvasLayer3/Control/TextureRect/crossbtn" unique_id=1066139571]
+layout_mode = 0
+offset_left = 8.0
+offset_right = 22.0
+offset_bottom = 23.0
+theme_override_fonts/font = SubResource("SystemFont_dy7ct")
+text = "X"
+autowrap_trim_flags = 64
+
+[node name="Label" type="Label" parent="CanvasLayer3/Control" unique_id=331015608]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -243.0
+offset_right = 243.0
+offset_bottom = 66.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.8368443, 0.9850673, 0.99999994, 1)
+theme_override_colors/font_outline_color = Color(0.06767178, 0.33396554, 0.56377494, 1)
+theme_override_constants/outline_size = 26
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 60
+text = "Guess The Job"
+autowrap_trim_flags = 64
+
+[node name="Difficulty" type="Label" parent="CanvasLayer3/Control" unique_id=1121122874]
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -88.5
+offset_top = 118.0
+offset_right = 130.5
+offset_bottom = 152.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 10
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+text = "DIFFICULTY :"
+
+[node name="play" type="Button" parent="CanvasLayer3/Control" unique_id=1120245092]
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 504.0
+offset_top = -204.5
+offset_right = 673.0
+offset_bottom = -143.5
+grow_vertical = 2
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_0o4t1")
+theme_override_styles/hover = SubResource("StyleBoxFlat_qe12f")
+
+[node name="playlbl" type="Label" parent="CanvasLayer3/Control/play" unique_id=308001076]
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+text = "   Play"
+
+[node name="tutorial" type="Button" parent="CanvasLayer3/Control" unique_id=1042091244]
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -74.5
+offset_top = -30.5
+offset_right = 94.5
+offset_bottom = 30.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_0o4t1")
+
+[node name="tutlabel" type="Label" parent="CanvasLayer3/Control/tutorial" unique_id=1769487030]
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+text = "Tutorial"
+
+[node name="Button" type="Button" parent="CanvasLayer3/Control" unique_id=316692249]
+texture_filter = 5
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 390.0
+offset_top = -161.0
+offset_right = 497.0
+offset_bottom = -114.0
+grow_vertical = 0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxEmpty_0k4wn")
+theme_override_styles/hover = SubResource("StyleBoxFlat_j5v2v")
+text = "EASY"
+
+[node name="Button2" type="Button" parent="CanvasLayer3/Control" unique_id=1167456647]
+texture_filter = 5
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 527.0
+offset_top = -161.0
+offset_right = 665.0
+offset_bottom = -114.0
+grow_vertical = 0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxEmpty_0k4wn")
+theme_override_styles/hover = SubResource("StyleBoxFlat_j5v2v")
+text = "MEDIUM"
+
+[node name="Button3" type="Button" parent="CanvasLayer3/Control" unique_id=1840861594]
+texture_filter = 5
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 708.0
+offset_top = -161.0
+offset_right = 815.0
+offset_bottom = -114.0
+grow_vertical = 0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxEmpty_0k4wn")
+theme_override_styles/hover = SubResource("StyleBoxFlat_j5v2v")
+text = "HARD"
+
+[node name="help" type="Button" parent="CanvasLayer3/Control" unique_id=451099077]
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 504.0
+offset_top = -118.5
+offset_right = 673.0
+offset_bottom = -57.5
+grow_vertical = 2
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_0o4t1")
+
+[node name="helplbl" type="Label" parent="CanvasLayer3/Control/help" unique_id=577072832]
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 30
+text = "   Help"
+
+[node name="Label2" type="Label" parent="CanvasLayer3/Control" unique_id=1246770218]
+layout_mode = 0
+offset_left = 274.0
+offset_top = 131.0
+offset_right = 760.0
+offset_bottom = 197.0
+theme_override_fonts/font = ExtResource("6_qe12f")
+theme_override_font_sizes/font_size = 20
+text = "Help"
+autowrap_trim_flags = 64
+
+[node name="Player" type="MeshInstance3D" parent="." unique_id=963725996]
+transform = Transform3D(0.88674474, 0, 0.46225938, 0, 1, 0, -0.46225938, 0, 0.88674474, -1.8015213, 2.4788513, 0.168221)
+mesh = ExtResource("5_0o4t1")
+surface_material_override/0 = SubResource("StandardMaterial3D_w44g7")
+script = ExtResource("2_glbon")
+
+[node name="Playercap" type="MeshInstance3D" parent="Player" unique_id=1535136640]
+transform = Transform3D(0.986666, -0.0243803, -0.485692, 0.0218737, 1.09973, -0.0107675, 0.485811, 3.07819e-09, 0.986908, 0.06316972, 1.7196574, 0.242782)
+visible = false
+mesh = ExtResource("3_nlkkf")
+skeleton = NodePath("../..")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Player" unique_id=1695288377]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.99283886, 0)
+mesh = ExtResource("8_0k4wn")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="Player" unique_id=41251461]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.6261606, 0)
+mesh = ExtResource("9_j5v2v")
+
+[node name="MeshInstance3D3" type="MeshInstance3D" parent="Player" unique_id=792789625]
+transform = Transform3D(-0.9986686, 0, 0.051586524, 0, 1, 0, -0.051586524, 0, -0.9986686, 0, 1.4216518, 0)
+mesh = ExtResource("10_iotk1")
+surface_material_override/0 = SubResource("StandardMaterial3D_8u0te")

@@ -1,0 +1,1065 @@
+[gd_scene format=4 uid="uid://1vxsxd4q77xh"]
+
+[ext_resource type="ArrayMesh" uid="uid://dyx2hs64sbdn0" path="res://models/stair.res" id="1_bhfnd"]
+[ext_resource type="Script" uid="uid://dkm7xcqxa64pa" path="res://tutorial.gd" id="1_tvjhf"]
+[ext_resource type="ArrayMesh" uid="uid://g8fcwu8f2jyp" path="res://models/ask.res" id="2_tvjhf"]
+[ext_resource type="Texture2D" uid="uid://bsurv81lud4v1" path="res://Ui/pause.png" id="4_4hjyh"]
+[ext_resource type="FontFile" uid="uid://b1p5rusddfc72" path="res://Ui/ArchivoBlack-Regular.ttf" id="5_bsk3x"]
+[ext_resource type="ArrayMesh" uid="uid://k33yrbxuklbu" path="res://models/body.res" id="6_4hjyh"]
+[ext_resource type="Script" uid="uid://c0e2qj8kgdsgd" path="res://scroll_container.gd" id="6_dl7dh"]
+[ext_resource type="Script" uid="uid://2akopibxign1" path="res://scroll_container_2.gd" id="6_k08xv"]
+[ext_resource type="Texture2D" uid="uid://bf83h6d3c8o6q" path="res://Ui/arrow10.png" id="6_r4o0u"]
+[ext_resource type="ArrayMesh" uid="uid://buoph1uxlria1" path="res://models/cap.res" id="8_bsk3x"]
+[ext_resource type="Script" uid="uid://cfbxvuhfesffy" path="res://Player.gd" id="8_k08xv"]
+[ext_resource type="ArrayMesh" uid="uid://gt8eniw0c01t" path="res://models/head.res" id="9_bsk3x"]
+[ext_resource type="ArrayMesh" uid="uid://dohnbexwtcq08" path="res://models/playercap.res" id="9_g52lx"]
+[ext_resource type="ArrayMesh" uid="uid://bxstiubr6dph0" path="res://models/Pant.res" id="10_dl7dh"]
+[ext_resource type="Script" uid="uid://b564qx3onpa4k" path="res://player_2.gd" id="14_dl7dh"]
+[ext_resource type="ArrayMesh" uid="uid://bf7swwy6uee5t" path="res://models/hair.res" id="15_r4o0u"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_tvjhf"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_vmw6g"]
+albedo_color = Color(0.907252, 0.714239, 0.683023, 1)
+
+[sub_resource type="Environment" id="Environment_4hjyh"]
+background_mode = 1
+background_color = Color(8.374751e-06, 0.56136554, 0.74520063, 1)
+background_energy_multiplier = 1.5
+ambient_light_source = 2
+ambient_light_color = Color(1, 1, 1, 1)
+glow_normalized = true
+glow_intensity = 0.2
+fog_light_color = Color(0.7351175, 0.76072687, 0.80056846, 1)
+fog_light_energy = 0.2
+fog_sun_scatter = 0.13
+fog_sky_affect = 0.067
+volumetric_fog_albedo = Color(0, 0.71100736, 0.71100736, 1)
+volumetric_fog_emission = Color(0.6052743, 0.6052743, 0.6052743, 1)
+
+[sub_resource type="SystemFont" id="SystemFont_dl7dh"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_r4o0u"]
+bg_color = Color(0.3822173, 0.36912984, 0.34503895, 1)
+border_width_top = 1
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.20871013, 0.20871016, 0.20870999, 1)
+corner_detail = 10
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_k08xv"]
+bg_color = Color(0.49019608, 0.078431375, 1, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.18998978, 0.0004465571, 0.42055205, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_g52lx"]
+bg_color = Color(0.25068784, 0.000754979, 0.5416413, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0lped"]
+bg_color = Color(0.2509804, 0, 0.5411765, 1)
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_dudfa"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5gpbq"]
+bg_color = Color(0.49019608, 0.078431375, 1, 1)
+corner_detail = 1
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tfgte"]
+bg_color = Color(0.2509804, 0, 0.5411765, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dyhf1"]
+bg_color = Color(0.2509804, 0, 0.5411765, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_53tq2"]
+bg_color = Color(0.296766, 0.665348, 0.687362, 1)
+
+[sub_resource type="Theme" id="Theme_4ods2"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0gmok"]
+bg_color = Color(0.207837, 0.411574, 0.356735, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ns12n"]
+bg_color = Color(0.304591, 0.584826, 0.767894, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dudfa"]
+bg_color = Color(0.24477634, 0.24477643, 0.24477628, 1)
+
+[sub_resource type="Theme" id="Theme_g52lx"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_nghrg"]
+bg_color = Color(0.12315822, 0.36556464, 0.8634428, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dl7dh"]
+bg_color = Color(0.12156863, 0.3647059, 0.8627451, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(1, 1, 1, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qs7l5"]
+bg_color = Color(0.6416731, 0.5270083, 1, 1)
+border_width_left = 6
+border_width_top = 6
+border_width_right = 6
+border_width_bottom = 6
+border_color = Color(0.42300725, 0.002209394, 0.8774277, 1)
+shadow_color = Color(0.14406255, 0.14406255, 0.14406255, 0.29411766)
+shadow_size = 5
+shadow_offset = Vector2(2, 2)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_k62om"]
+bg_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 50
+corner_radius_top_right = 50
+corner_radius_bottom_right = 50
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_bb16k"]
+bg_color = Color(0.3403393, 0.34033933, 0.34033936, 1)
+border_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 30
+corner_radius_top_right = 30
+corner_radius_bottom_right = 30
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0yspx"]
+bg_color = Color(0.581033, 0.58103293, 0.5810329, 1)
+corner_radius_top_left = 50
+corner_radius_top_right = 50
+corner_radius_bottom_right = 50
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_bhfnd"]
+bg_color = Color(1, 1, 1, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(7.70092e-07, 0.6227794, 0.920983, 1)
+corner_radius_top_left = 100
+corner_radius_top_right = 100
+corner_radius_bottom_right = 100
+corner_radius_bottom_left = 100
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tvjhf"]
+bg_color = Color(1, 1, 1, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(7.70092e-07, 0.6227794, 0.920983, 1)
+corner_radius_top_left = 100
+corner_radius_top_right = 100
+corner_radius_bottom_right = 100
+corner_radius_bottom_left = 100
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_vmw6g"]
+bg_color = Color(0.86467505, 0.86467516, 0.864675, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.30737007, 0.7276397, 0.99999946, 1)
+corner_radius_top_left = 100
+corner_radius_top_right = 100
+corner_radius_bottom_right = 100
+corner_radius_bottom_left = 100
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4hjyh"]
+bg_color = Color(0.60038817, 0.60038817, 0.60038817, 0)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.4021448, 0.9162357, 0.6404117, 1)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+expand_margin_left = 5.0
+expand_margin_top = 5.0
+expand_margin_right = 5.0
+expand_margin_bottom = 5.0
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_bsk3x"]
+bg_color = Color(1, 1, 1, 1)
+corner_radius_top_right = 50
+corner_radius_bottom_right = 50
+corner_radius_bottom_left = 50
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_w48qg"]
+albedo_color = Color(1, 0.6155507, 1, 1)
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_gj4f8"]
+_surfaces = [{
+"aabb": AABB(-0.64006513, -0.5360666, -0.63136, 1.2801303, 1.0721331, 1.26272),
+"format": 34896613377,
+"index_count": 36,
+"index_data": PackedByteArray("AAABAAIAAwACAAEAAAAEAAEAAwAFAAIABQAAAAIABgAEAAAABQAGAAAABwABAAQABwADAAEABgAHAAQABQADAAcABQAHAAYA"),
+"name": "Material",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 8,
+"vertex_data": PackedByteArray("/////wAAAAAAAP////8AAAAA//8AAAAAAAAAAP//AAD///////8AAAAAAAAAAAAA//8AAAAAAAD//wAA//8AAA==")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_k08xv"]
+resource_name = "GuessChar_Cube_001"
+_surfaces = [{
+"aabb": AABB(-0.64006513, -0.5360666, -0.63136, 1.2801303, 1.0721331, 1.26272),
+"attribute_data": PackedByteArray("/5//f//f/z//3/9//5//P/9f/z//nwAA/5//P/9fAAD/X////5//v/+f////X/+//x//f/9f/z//X/9//x//P/9f/3//n/8//5//f/9f/z//X/+//5//f/+f/7//X/9/"),
+"format": 34896613399,
+"index_count": 36,
+"index_data": PackedByteArray("AAABAAIAAAADAAEABAAFAAYABAAHAAUACAAJAAoACAALAAkADAANAA4ADAAPAA0AEAARABIAEAATABEAFAAVABYAFAAXABUA"),
+"material": SubResource("StandardMaterial3D_w48qg"),
+"name": "Material",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 24,
+"vertex_data": PackedByteArray("/////wAA//8AAP///////wAA//8AAP///////////////wAA////vwAA//////+//////////78AAAAA////vwAAAAD//1TVAAD//wAAVNUAAP////9U1QAAAAAAAFTVAAAAAAAA/7///wAA////v///AAAAAP+/AAAAAP///7///wAAAABU1f///////1TV/////wAAVNX//wAA//9U1QAAAAAAAP///////wAA//8AAP//AAD/////AAAAAP///3//v/9//7//f/+//3//v/////////////////////9U1VTVVNVU1VTVVNVU1VTVAAD/fwAA/38AAP9/AAD/f6oqqiqqKqoqqiqqKqoqqir/v/+//7//v/+//7//v/+/")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_gj4f8")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_v68f1"]
+resource_name = "Material"
+cull_mode = 2
+albedo_color = Color(0.1399577, 0.27585885, 0.51983863, 1)
+roughness = 0.5
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_wpn4h"]
+_surfaces = [{
+"aabb": AABB(-0.42176622, -0.35843408, -0.42176622, 0.84353244, 0.6743592, 0.84353244),
+"format": 34896613377,
+"index_count": 192,
+"index_data": PackedByteArray("AAABAAIAAwACAAEAAwAEAAIAAAACAAQABQADAAEAAAAEAAYABQABAAcACAAFAAcACQAAAAYACQAGAAoAAQALAAcACAAHAAsAAAALAAEACwAMAAgADQAAAAkADQAJAAoACwAAAA0ADQAKAA4ADwANAA4ADwAOABAAEQANAA8AEQAPABAACwANABEAEQAQABIACwATAAwACwARABMAEwAUAAwAFQARABIAEwARABUAFQASABYAEwAXABQAEwAVABcAFwAYABQAGQAVABYAFwAVABkAGQAWABoAFwAbABgAFwAZABsAGwAcABgAGwAdABwAGQAdABsAHgAcAB0AHwAZABoAHwAaACAAHgAdACEAIgAeACEAIAAjAB8AIwAZAB8AIAAkACMAGQAlAB0AHQAlACEAIgAhACUAJQAZACMAJgAiACUAJAAnACMAJAAoACcAJgAlACkAKQAqACYAJQAjACsAJQArACkAKwAjACcAKQArACoAKAArACcAKAAqACsA"),
+"name": "Material",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 44,
+"vertex_data": PackedByteArray("AAAAAKHXAABoBQAALhQAAAAAAABdKAAAaAWR/S4UAAAAAJH9XSgAAC4Ukf1oBQAAAACR/aHXAAAuFAAAaAUAAF0okf0AAAAAaAUAANDrAABoBZH90OsAAF0oAAAAAAAA/z+R/QAAAAAuFAAAlvoAAC4Ukf2W+gAAXSgAAP//AABdKJH9//8AAP8/AAD//wAA/z+R/f//AAD/PwAAAAAAAG1+gP8AAAAA/3/bx///AABtfoD///8AAP9/28cAAAAAkMH//wAAAAD/vwAA//8AAJDB/////wAA/78AAAAAAACh15H9AAAAAKHXAAAAAAAA0OuR/WgFAACh1wAA//8AAKHXkf3//wAA0OsAAGgFAACW+pH9LhQAANDrAACW+gAA0OuR/Zb6AACW+gAALhQAAP//kf1dKAAAlvoAANDrAACW+pH90OsAAP//AABdKAAA//+R/aHXAAD//wAAodcAAA==")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_g52lx"]
+resource_name = "GuessChar_Cube_003"
+_surfaces = [{
+"aabb": AABB(-0.42176622, -0.35843408, -0.42176622, 0.84353244, 0.6743592, 0.84353244),
+"attribute_data": PackedByteArray("/x8XSlkh83r/H+h1Fyr/fwslpX4LJVlBWSELRf8v/z8XKv8//y//f/8v/3//P/8//z//f/8v/z//T/8/6FX/f/9P/3+lXvN681qlfvNaWUHoVf8//18XSqVeC0X/X+h1/z//f/9P/z//T/9//z//P/9/6HX/X/N6/1/odf9/83r/f/N6/18Lhf9f83r/fwuF/38Lhf9fFor/XwuF/38Wiv9/6DX/X/Q6/1/oNf9/9Dr/f/Q6/18LRf9f9Dr/fwtF/38LRf9fF0r/XwtF/38XSv9/57X/X/O6/1/ntf9/87r/f/O6/18Kxf9f87r/fwrF/38Kxf9fFsr/XwrF/38Wyv9f/4//fxaK/3//j/9fFor/X/+f/3//n/9f/6//f/+v/1/ntf9/57X/X/P6/3/n9f9/8/r/X+f1/1////9/8/r/f////1/z+v9fFwr/fwAA/38XCv9fAAD/X/8f/3//D/9//x//X/8P/38XCv9fFwr/X/8v/3//L/9f6DX/f+g1/1/n9f9/Fsr/f+f1/18Wyv9f6HX/fxdK/3/odf9fF0o="),
+"format": 34896613399,
+"index_count": 192,
+"index_data": PackedByteArray("AAABAAIAAAADAAEAAQADAAQAAwAAAAUABQAAAAYAAwAFAAcABwAFAAgAAwAHAAkACgALAAwACgANAAsADgAPABAADgARAA8ADwARABIAEQAOABMAEwAOABQAEQATABUAFQATABYAEQAVABcAGAAZABoAGAAbABkAHAAdAB4AHAAfAB0AIAAhACIAIAAjACEAJAAlACYAJAAnACUAKAApACoAKAArACkALAAtAC4ALAAvAC0AMAAxADIAMAAzADEANAA1ADYANAA3ADUAOAA5ADoAOAA7ADkAPAA9AD4APAA/AD0AQABBAEIAQABDAEEARABAAEIARABCAEUARgBEAEUARgBFAEcASABGAEcASABHAEkASgBLAEwASgBNAEsATgBPAFAATgBRAE8AUgBTAFQAUgBVAFMAVgBXAFgAVgBZAFcAWQBaAFcAWQBbAFoAXABWAFgAXABYAF0AXgBcAF0AXgBdAF8AYABhAGIAYABjAGEAZABlAGYAZABnAGUA"),
+"material": SubResource("StandardMaterial3D_v68f1"),
+"name": "Material",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 104,
+"vertex_data": PackedByteArray("AAAAAKHX/79oBQAALhT/vwAAAABdKP+/XSgAAAAA/78uFAAAaAX/vy4UAACW+v+/aAUAANDr/7//PwAA////v10oAAD///+//z8AAAAA/7//PwAAAAADzf9/28f//wPN/3/bxwAAA83/PwAA//8Dzf+/AAD///+/odcAAAAA/7//vwAAAAD/v5b6AAAuFP+/0OsAAGgF/7/Q6wAAlvr/v6HXAAD///+///8AAKHX/7+W+gAA0Ov/v///AABdKP+//3/bxwAAA83/vwAA//8Dzf+/AAAAAAPN/3/bx///A83//5H9XSi725b6AAAuFLvb//8AAF0ou9uW+pH9LhS725b6kf0uFKrp0OsAAGgFqumW+gAALhSq6dDrkf1oBarp0OuR/WgFd/ih1wAAAAB3+NDrAABoBXf4odeR/QAAd/ih15H9//+wwNDrAACW+rDAodcAAP//sMDQ65H9lvqwwNDrkf2W+vzFlvoAANDr/MXQ6wAAlvr8xZb6kf3Q6/zFlvqR/dDrd8///wAAodd3z5b6AADQ63fP//+R/aHXd89dKJH9AAB3+C4UAABoBXf4XSgAAAAAd/guFJH9aAV3+C4Ukf1oBarpaAUAAC4UqukuFAAAaAWq6WgFkf0uFKrpaAWR/S4Uu9sAAAAAXSi722gFAAAuFLvbAACR/V0ou9v/vwAAAAD//6HXkf0AAP//kMH//wAA//+h1wAAAAD///9/28cAAP//bX6A/wAA////PwAAAAD///8/kf0AAP//XSgAAAAA//9dKJH9AAD//2gFAADQ63fPAACR/aHXd89oBZH90Ot3zwAAAACh13fPLhQAAJb6/MVoBZH90Ov8xS4Ukf2W+vzFaAUAANDr/MVdKAAA//+wwC4Ukf2W+rDAXSiR/f//sMAuFAAAlvqwwP9/28f///jA/z+R/f//RsBtfoD///+5wP8/AAD///+/XSiR/f///79dKAAA////v/+/AAD//7+/kMH/////07+h1wAA//+0v6HXkf3///+/AAAAAKHXVNUAAJH9XShU1QAAkf2h11TVAAAAAF0oVNX//wAAXShU1f//kf2h11TV//+R/V0oVNX//wAAoddU1QAA/38AAP9/AAD/fwAA/38AAP9/AAD/fwAA/38AAP9/AAD/fwAA/3/OJGM2ziRjNs4kYzbOJGM2AAD/fwAA/38AAP9/AAD/fwAA/38AAP9/AAD/fwAA/38AAP9/AAD/f5xJzaScSc2knEnNpJxJzaRALkAuQC5ALkAuQC5ALkAuBDUENQQ1BDUENQQ1BDUENQs8CzwLPAs8CzwLPAs8CzxWDVYNVg1WDVYNVg1WDVYN/xz/HP8c/xz/HP8c/xz/HL8mvya/Jr8mvya/Jr8mvybzw/PD88Pzw/PD88Pzw/PD+sr6yvrK+sr6yvrK+sr6yr7RvtG+0b7RvtG+0b7RvtEPwO+/OcDEv/m/BcD/v/+/UL+uwFK/rMDyvwvA/7//v/+//7//v/+/P9k/2T/ZP9k/2T/ZP9k/2f/i/+L/4v/i/+L/4v/i/+Ko8qjyqPKo8qjyqPKo8qjy/////////////////////////////////////////////////////1TVVNVU1VTVVNVU1VTVVNWqKqoqqiqqKqoqqiqqKqoq")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_wpn4h")
+
+[node name="Tutorial" type="Node3D" unique_id=917357330]
+script = ExtResource("1_tvjhf")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=405930391]
+transform = Transform3D(20, 0, 0, 0, 0.1, 0, 0, 0, 20, 0, 0, -5.78243)
+mesh = SubResource("BoxMesh_tvjhf")
+surface_material_override/0 = SubResource("StandardMaterial3D_vmw6g")
+
+[node name="Stair" type="MeshInstance3D" parent="." unique_id=774097577]
+transform = Transform3D(0.97709, 0, 0.212826, 0, 1, 0, -0.212826, 0, 0.97709, 0.0252575, 1.97642, 0.273375)
+mesh = ExtResource("1_bhfnd")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1192047513]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0237505, 4.19363, 7.44878)
+visible = false
+doppler_tracking = 2
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1379473208]
+environment = SubResource("Environment_4hjyh")
+
+[node name="SpotLight3D" type="SpotLight3D" parent="." unique_id=1722191228]
+transform = Transform3D(-0.0108298, -0.57437, 0.818524, -0.206186, 0.802264, 0.560232, -0.978453, -0.162701, -0.127115, 5.63164, 4.44286, 0.279068)
+light_color = Color(1, 1, 0.34902, 1)
+light_energy = 20.0
+light_size = 0.727
+shadow_enabled = true
+spot_range = 11.6225
+spot_angle = 37.73
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1638199061]
+transform = Transform3D(1, 0, 0, 0, 0.908136, 0.418676, 0, -0.418676, 0.908136, -0.157135, 4.6776, 11.516)
+light_energy = 1.5
+
+[node name="Timer" type="Timer" parent="." unique_id=1260003777]
+
+[node name="CanvasLayer2" type="CanvasLayer" parent="." unique_id=2116997]
+
+[node name="Control" type="Control" parent="CanvasLayer2" unique_id=852526360]
+visible = false
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -578.5
+offset_top = -323.5
+offset_right = 578.5
+offset_bottom = 323.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer2/Control" unique_id=1798363847]
+texture_filter = 2
+layout_mode = 0
+offset_left = 201.0
+offset_top = 153.0
+offset_right = 954.0
+offset_bottom = 553.0
+texture = ExtResource("4_4hjyh")
+
+[node name="Label" type="Label" parent="CanvasLayer2/Control" unique_id=810352281]
+layout_mode = 0
+offset_left = 244.0
+offset_top = 161.0
+offset_right = 408.0
+offset_bottom = 217.0
+theme_override_fonts/font = SubResource("SystemFont_dl7dh")
+text = "PAUSE MENU"
+autowrap_trim_flags = 64
+
+[node name="crossbtn" type="Button" parent="CanvasLayer2/Control" unique_id=752385550]
+texture_filter = 3
+layout_mode = 0
+offset_left = 894.0
+offset_top = 158.0
+offset_right = 923.0
+offset_bottom = 183.0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_r4o0u")
+
+[node name="crosslbl" type="Label" parent="CanvasLayer2/Control" unique_id=865924598]
+layout_mode = 0
+offset_left = 902.0
+offset_top = 158.0
+offset_right = 916.0
+offset_bottom = 181.0
+theme_override_fonts/font = SubResource("SystemFont_dl7dh")
+text = "X"
+autowrap_trim_flags = 64
+
+[node name="Difficulty" type="Label" parent="CanvasLayer2/Control" unique_id=2122491696]
+visible = false
+texture_filter = 1
+layout_mode = 0
+offset_left = 249.0
+offset_top = 224.0
+offset_right = 386.0
+offset_bottom = 247.0
+theme_override_colors/font_color = Color(0.4509804, 0, 1, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+text = "DIFFICULTY"
+
+[node name="resumebtn" type="Button" parent="CanvasLayer2/Control" unique_id=1536243085]
+visible = false
+texture_filter = 3
+layout_mode = 0
+offset_left = 494.0
+offset_top = 217.0
+offset_right = 663.0
+offset_bottom = 278.0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_k08xv")
+theme_override_styles/hover = SubResource("StyleBoxFlat_g52lx")
+
+[node name="resumelbl" type="Label" parent="CanvasLayer2/Control/resumebtn" unique_id=1696962033]
+visible = false
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+text = "Resume"
+
+[node name="restart" type="Button" parent="CanvasLayer2/Control" unique_id=2079113836]
+visible = false
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -84.5
+offset_top = -30.5
+offset_right = 84.5
+offset_bottom = 30.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_k08xv")
+theme_override_styles/hover = SubResource("StyleBoxFlat_0lped")
+
+[node name="restartlbl" type="Label" parent="CanvasLayer2/Control/restart" unique_id=1168250588]
+visible = false
+texture_filter = 1
+layout_mode = 0
+offset_left = 21.0
+offset_top = 13.0
+offset_right = 158.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+text = "Restart"
+
+[node name="Button" type="Button" parent="CanvasLayer2/Control" unique_id=924130346]
+visible = false
+texture_filter = 5
+layout_mode = 0
+offset_left = 479.0
+offset_top = 218.0
+offset_right = 586.0
+offset_bottom = 265.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxEmpty_dudfa")
+theme_override_styles/hover = SubResource("StyleBoxFlat_5gpbq")
+text = "EASY"
+
+[node name="Button2" type="Button" parent="CanvasLayer2/Control" unique_id=1666612662]
+visible = false
+texture_filter = 5
+layout_mode = 0
+offset_left = 629.0
+offset_top = 218.0
+offset_right = 767.0
+offset_bottom = 265.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxEmpty_dudfa")
+theme_override_styles/hover = SubResource("StyleBoxFlat_5gpbq")
+text = "MEDIUM"
+
+[node name="Button3" type="Button" parent="CanvasLayer2/Control" unique_id=26152698]
+visible = false
+texture_filter = 5
+layout_mode = 0
+offset_left = 804.0
+offset_top = 218.0
+offset_right = 911.0
+offset_bottom = 265.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxEmpty_dudfa")
+theme_override_styles/hover = SubResource("StyleBoxFlat_5gpbq")
+text = "HARD"
+
+[node name="help" type="Button" parent="CanvasLayer2/Control" unique_id=321689162]
+texture_filter = 3
+layout_mode = 0
+offset_left = 495.0
+offset_top = 380.0
+offset_right = 664.0
+offset_bottom = 441.0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_k08xv")
+theme_override_styles/hover = SubResource("StyleBoxFlat_tfgte")
+
+[node name="helplbl" type="Label" parent="CanvasLayer2/Control/help" unique_id=19888348]
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+text = "   Help"
+
+[node name="Home" type="Button" parent="CanvasLayer2/Control" unique_id=452178317]
+texture_filter = 3
+layout_mode = 0
+offset_left = 494.0
+offset_top = 461.0
+offset_right = 663.0
+offset_bottom = 522.0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_k08xv")
+theme_override_styles/hover = SubResource("StyleBoxFlat_dyhf1")
+
+[node name="homelbl" type="Label" parent="CanvasLayer2/Control/Home" unique_id=1343265067]
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+text = "  Home"
+
+[node name="tips" type="Label" parent="CanvasLayer2/Control" unique_id=66060138]
+layout_mode = 0
+offset_left = 244.0
+offset_top = 206.0
+offset_right = 1172.0
+offset_bottom = 537.0
+theme_override_colors/font_color = Color(0.1882353, 0, 0.41960785, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 20
+text = "Press Ask button to ask question.Click question to choose
+
+Difficulty:
+1. Easy mode : Narrows question down and provides hint 
+ when there is a minute left on the clock and provides
+ less jobs to choose from.
+2. Medium mode : Has more question to choose from and
+ no hint given.
+3. Hard mode : Has more question to choose from has 
+more jobs to choose from and no hint given."
+
+[node name="Label2" type="Label" parent="CanvasLayer2/Control" unique_id=325528081]
+layout_mode = 0
+offset_left = 241.0
+offset_top = 163.0
+offset_right = 727.0
+offset_bottom = 229.0
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 20
+text = "Help"
+autowrap_trim_flags = 64
+
+[node name="Label" type="Label" parent="." unique_id=1102283516]
+visible = false
+offset_left = 417.0
+offset_top = 210.0
+offset_right = 531.0
+offset_bottom = 245.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 20
+text = "ASK"
+
+[node name="Control" type="Control" parent="." unique_id=1187544533]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CanvasLayer" type="CanvasLayer" parent="Control" unique_id=760542644]
+
+[node name="UI_Control" type="Control" parent="Control/CanvasLayer" unique_id=1302119679]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="ColorRect" type="ColorRect" parent="Control/CanvasLayer/UI_Control" unique_id=342035467]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.42754805, 0.42754805, 0.42754805, 0.60300004)
+
+[node name="TimerLabel" type="Label" parent="Control/CanvasLayer/UI_Control" unique_id=387289328]
+z_index = -1
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -20.0
+offset_top = 19.0
+offset_right = 20.0
+offset_bottom = 74.0
+grow_horizontal = 2
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 40
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Control/CanvasLayer/UI_Control" unique_id=1309861872]
+visible = false
+layout_mode = 0
+offset_left = 504.0
+offset_top = 557.0
+offset_right = 684.0
+offset_bottom = 597.0
+
+[node name="GuessText" type="LineEdit" parent="Control/CanvasLayer/UI_Control/HBoxContainer" unique_id=2063129171]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_styles/normal = SubResource("StyleBoxFlat_53tq2")
+placeholder_text = "guess"
+
+[node name="Button" type="Button" parent="Control/CanvasLayer/UI_Control/HBoxContainer" unique_id=2117434868]
+layout_mode = 2
+text = "make a guess"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Control/CanvasLayer/UI_Control" unique_id=2131160776]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -423.5
+offset_top = -233.5
+offset_right = 423.5
+offset_bottom = 267.5
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1, 0.84)
+theme = SubResource("Theme_4ods2")
+script = ExtResource("6_dl7dh")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control/CanvasLayer/UI_Control/ScrollContainer" unique_id=552128925]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Button" type="Button" parent="Control/CanvasLayer/UI_Control/ScrollContainer/VBoxContainer" unique_id=2046094610]
+texture_filter = 3
+layout_mode = 2
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_0gmok")
+theme_override_styles/hover = SubResource("StyleBoxFlat_ns12n")
+text = "Label 1
+
+"
+alignment = 0
+
+[node name="DiaologueLabel" type="Label" parent="Control/CanvasLayer/UI_Control" unique_id=1036824280]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 141.0
+offset_top = -149.0
+offset_right = 503.0
+offset_bottom = -100.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 10
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 26
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="Control/CanvasLayer/UI_Control" unique_id=153254156]
+clip_contents = true
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -356.0
+offset_top = 241.0
+offset_right = 356.0
+offset_bottom = 281.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextEdit" type="TextEdit" parent="Control/CanvasLayer/UI_Control/HBoxContainer3" unique_id=1799906641]
+texture_filter = 3
+custom_minimum_size = Vector2(500, 0)
+layout_direction = 4
+layout_mode = 2
+placeholder_text = "GUESS !"
+
+[node name="Button" type="Button" parent="Control/CanvasLayer/UI_Control/HBoxContainer3" unique_id=1838354760]
+z_index = -1
+texture_filter = 3
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.875, 0.875, 0.875, 1)
+theme_override_styles/normal = SubResource("StyleBoxFlat_dudfa")
+text = "GUESS"
+
+[node name="ScrollContainer2" type="ScrollContainer" parent="Control/CanvasLayer/UI_Control" unique_id=1383976984]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -288.49997
+offset_top = -185.5
+offset_right = 288.5
+offset_bottom = 219.5
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1, 0.84)
+theme = SubResource("Theme_g52lx")
+script = ExtResource("6_k08xv")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control/CanvasLayer/UI_Control/ScrollContainer2" unique_id=1938634269]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Button" type="Button" parent="Control/CanvasLayer/UI_Control/ScrollContainer2/VBoxContainer" unique_id=328562122]
+texture_filter = 3
+layout_mode = 2
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_nghrg")
+theme_override_styles/hover = SubResource("StyleBoxFlat_ns12n")
+text = "Label 1"
+alignment = 0
+
+[node name="highlightSoftware" type="Button" parent="Control/CanvasLayer/UI_Control" unique_id=483461952]
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -289.5
+offset_top = -192.0
+offset_right = 287.5
+offset_bottom = -144.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_dl7dh")
+theme_override_styles/hover = SubResource("StyleBoxFlat_ns12n")
+text = "Software engineer"
+alignment = 0
+
+[node name="HBoxContainer4" type="HBoxContainer" parent="Control/CanvasLayer/UI_Control" unique_id=1586034944]
+clip_contents = true
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -356.0
+offset_top = -294.0
+offset_right = 356.0
+offset_bottom = -254.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextEdit" type="TextEdit" parent="Control/CanvasLayer/UI_Control/HBoxContainer4" unique_id=1148885827]
+texture_filter = 3
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+placeholder_text = "QUESTION...."
+
+[node name="Button" type="Button" parent="Control/CanvasLayer/UI_Control/HBoxContainer4" unique_id=592577071]
+texture_filter = 3
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+text = "Search"
+
+[node name="answerlabel" type="Label" parent="Control/CanvasLayer/UI_Control" unique_id=2093454319]
+visible = false
+layout_mode = 0
+offset_left = 815.0
+offset_top = 10.0
+offset_right = 1116.0
+offset_bottom = 71.0
+
+[node name="pausebtn" type="Button" parent="Control/CanvasLayer/UI_Control" unique_id=1619338930]
+texture_filter = 3
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -80.0
+offset_top = 25.0
+offset_right = -51.0
+offset_bottom = 50.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_r4o0u")
+
+[node name="pauselbl" type="Label" parent="Control/CanvasLayer/UI_Control/pausebtn" unique_id=1970377435]
+layout_mode = 0
+offset_left = 8.0
+offset_right = 22.0
+offset_bottom = 23.0
+theme_override_fonts/font = SubResource("SystemFont_dl7dh")
+text = "II"
+autowrap_trim_flags = 64
+
+[node name="Button" type="Button" parent="Control/CanvasLayer/UI_Control" unique_id=1020795018]
+visible = false
+texture_filter = 3
+layout_mode = 0
+offset_left = 557.0
+offset_top = 335.0
+offset_right = 726.0
+offset_bottom = 396.0
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_k08xv")
+theme_override_styles/hover = SubResource("StyleBoxFlat_qs7l5")
+
+[node name="restart" type="Label" parent="Control/CanvasLayer/UI_Control/Button" unique_id=953244017]
+visible = false
+texture_filter = 1
+layout_mode = 0
+offset_left = 19.0
+offset_top = 13.0
+offset_right = 156.0
+offset_bottom = 47.0
+theme_override_colors/font_color = Color(0.99537784, 0.9950233, 0.99999994, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+text = "Restart"
+
+[node name="Askbutton" type="Button" parent="Control/CanvasLayer/UI_Control" unique_id=2121097774]
+z_index = -1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -171.75
+offset_top = -152.25
+offset_right = -12.25
+offset_bottom = -71.75
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(1, 1, 1, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 40
+theme_override_styles/normal = SubResource("StyleBoxFlat_k62om")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_bb16k")
+theme_override_styles/hover = SubResource("StyleBoxFlat_0yspx")
+text = " ASK"
+
+[node name="Next" type="Button" parent="Control/CanvasLayer/UI_Control" unique_id=1443200892]
+z_index = 1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -74.0
+offset_top = 117.0
+offset_right = 79.0
+offset_bottom = 173.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0.4390491, 0.43904912, 0.43904912, 1)
+theme_override_colors/font_hover_color = Color(0.23392546, 0.23392546, 0.23392543, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_bhfnd")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_tvjhf")
+theme_override_styles/hover = SubResource("StyleBoxFlat_vmw6g")
+text = "NEXT"
+
+[node name="guessleft" type="Label" parent="Control/CanvasLayer/UI_Control" unique_id=1901423103]
+z_index = 5
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -626.0
+offset_top = -332.0
+offset_right = -368.0
+offset_bottom = -281.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_4hjyh")
+
+[node name="Label2" type="Label" parent="Control/CanvasLayer/UI_Control/guessleft" unique_id=1222418780]
+layout_mode = 0
+offset_left = 246.0
+offset_top = 69.0
+offset_right = 726.0
+offset_bottom = 247.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_bsk3x")
+text = "
+  The amount of guess left     
+ Note: Different number of 
+  guess for different mode"
+
+[node name="skip" type="Button" parent="Control/CanvasLayer/UI_Control" unique_id=1783614293]
+z_index = 1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -74.0
+offset_top = 291.0
+offset_right = 79.0
+offset_bottom = 347.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0.4390491, 0.43904912, 0.43904912, 1)
+theme_override_colors/font_hover_color = Color(0.23392546, 0.23392546, 0.23392543, 1)
+theme_override_fonts/font = ExtResource("5_bsk3x")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_bhfnd")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_tvjhf")
+theme_override_styles/hover = SubResource("StyleBoxFlat_vmw6g")
+text = "SKIP"
+
+[node name="Control" type="Control" parent="Control/CanvasLayer/UI_Control" unique_id=1826484717]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Sprite2D4" type="Sprite2D" parent="Control/CanvasLayer/UI_Control/Control" unique_id=610726232]
+visible = false
+texture_filter = 3
+position = Vector2(-284, -112.999985)
+rotation = 2.5307274
+scale = Vector2(0.217, 0.195)
+texture = ExtResource("6_r4o0u")
+
+[node name="Sprite2D3" type="Sprite2D" parent="Control/CanvasLayer/UI_Control/Control" unique_id=1083921834]
+visible = false
+texture_filter = 3
+position = Vector2(235.00018, 198.00006)
+rotation = -1.5236725
+scale = Vector2(0.217, 0.195)
+texture = ExtResource("6_r4o0u")
+
+[node name="Sprite2D" type="Sprite2D" parent="Control/CanvasLayer/UI_Control/Control" unique_id=734569599]
+visible = false
+texture_filter = 3
+position = Vector2(-352, 217)
+rotation = -2.204351
+scale = Vector2(0.217, 0.195)
+texture = ExtResource("6_r4o0u")
+
+[node name="Sprite2D2" type="Sprite2D" parent="Control/CanvasLayer/UI_Control/Control" unique_id=781653600]
+visible = false
+texture_filter = 3
+position = Vector2(-115.45001, 13)
+rotation = 1.5707964
+scale = Vector2(0.217, 0.195)
+texture = ExtResource("6_r4o0u")
+
+[node name="Control2" type="Control" parent="." unique_id=128820602]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Stair" type="MeshInstance3D" parent="Control2" unique_id=1662543879]
+transform = Transform3D(0.97709, 0, 0.212826, 0, 1, 0, -0.212826, 0, 0.97709, 0.0252575, 1.97642, 0.273375)
+mesh = ExtResource("1_bhfnd")
+
+[node name="Player" type="MeshInstance3D" parent="Control2" unique_id=1295343321]
+transform = Transform3D(0.11736409, 0, 0.99308896, 0, 1, 0, -0.99308896, 0, 0.11736409, -1.8015213, 3.105156, 0.168221)
+mesh = ExtResource("6_4hjyh")
+script = ExtResource("8_k08xv")
+
+[node name="Playercap" type="MeshInstance3D" parent="Control2/Player" unique_id=1550917377]
+transform = Transform3D(0.986666, -0.0243803, -0.485692, 0.0218737, 1.09973, -0.0107675, 0.485811, 3.07819e-09, 0.986908, 0.06316972, 1.7196574, 0.242782)
+visible = false
+mesh = ExtResource("9_g52lx")
+skeleton = NodePath("../..")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Control2/Player" unique_id=1103295705]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.99283886, 0)
+mesh = ExtResource("9_bsk3x")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="Control2/Player" unique_id=1518650123]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.6261606, 0)
+mesh = ExtResource("10_dl7dh")
+
+[node name="MeshInstance3D3" type="MeshInstance3D" parent="Control2/Player" unique_id=120931966]
+transform = Transform3D(-0.9986686, 0, 0.051586524, 0, 1, 0, -0.051586524, 0, -0.9986686, 0, 1.4216518, 0)
+mesh = ExtResource("8_bsk3x")
+
+[node name="Ask" type="MeshInstance3D" parent="Control2" unique_id=1532594436]
+transform = Transform3D(1.19249e-08, 0, -1, 0, 1, 0, 1, 0, 1.19249e-08, -1.79272, 4.92012, 0.846365)
+visible = false
+mesh = ExtResource("2_tvjhf")
+
+[node name="Camera3D" type="Camera3D" parent="Control2" unique_id=392171293]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0237505, 4.19363, 7.44878)
+doppler_tracking = 2
+
+[node name="Player2" type="MeshInstance3D" parent="Control2" unique_id=1409836516]
+transform = Transform3D(-0.14856882, 0, 0.98890215, 0, 1, 0, -0.98890215, 0, -0.14856882, 1.9898052, 3.1689425, 0.168221)
+mesh = ExtResource("6_4hjyh")
+script = ExtResource("14_dl7dh")
+
+[node name="Playercap2" type="MeshInstance3D" parent="Control2/Player2" unique_id=313117950]
+transform = Transform3D(0.986666, -0.0243803, -0.485692, 0.0218737, 1.09973, -0.0107675, 0.485811, 3.07819e-09, 0.986908, 0.06316972, 1.7196574, 0.242782)
+visible = false
+mesh = ExtResource("9_g52lx")
+skeleton = NodePath("../..")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Control2/Player2" unique_id=1199839906]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.99283886, 0)
+mesh = SubResource("ArrayMesh_k08xv")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="Control2/Player2" unique_id=376441720]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.6261606, 0)
+mesh = SubResource("ArrayMesh_g52lx")
+
+[node name="MeshInstance3D3" type="MeshInstance3D" parent="Control2/Player2" unique_id=1137447466]
+transform = Transform3D(0.998984, 0, 0.04506664, 0, 1, 0, -0.04506664, 0, 0.998984, -0.03212267, 1.4216518, 0.21381462)
+mesh = ExtResource("15_r4o0u")

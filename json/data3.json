@@ -1,0 +1,1798 @@
+{
+	"questions": [
+		{
+			"id": "q1",
+			"text": "Do you work indoors?"
+		},
+		{
+			"id": "q2",
+			"text": "Is your primary workplace inside a building?"
+		},
+		{
+			"id": "q3",
+			"text": "Do you work outdoors?"
+		},
+		{
+			"id": "q4",
+			"text": "Are you exposed to the weather while working?"
+		},
+		{
+			"id": "q5",
+			"text": "Do you sit at a desk all day?"
+		},
+		{
+			"id": "q6",
+			"text": "Are you sitting down for the majority of your shift?"
+		},
+		{
+			"id": "q7",
+			"text": "Do you stand on your feet all day?"
+		},
+		{
+			"id": "q8",
+			"text": "Is your job physically demanding on your legs?"
+		},
+		{
+			"id": "q9",
+			"text": "Do you stare at a screen all day?"
+		},
+		{
+			"id": "q10",
+			"text": "Is a computer your main tool?"
+		},
+		{
+			"id": "q11",
+			"text": "Did you need a university degree?"
+		},
+		{
+			"id": "q12",
+			"text": "Did you go to college for this?"
+		},
+		{
+			"id": "q13",
+			"text": "Can you wear casual clothes like a t-shirt?"
+		},
+		{
+			"id": "q14",
+			"text": "Do you wear jeans to work?"
+		},
+		{
+			"id": "q15",
+			"text": "Do you work in an office building?"
+		},
+		{
+			"id": "q16",
+			"text": "Do you have a cubicle or desk space?"
+		},
+		{
+			"id": "q17",
+			"text": "Is your job generally considered safe?"
+		},
+		{
+			"id": "q18",
+			"text": "Do you have to worry about injury at work?"
+		},
+		{
+			"id": "q19",
+			"text": "Do you work in the technology sector?"
+		},
+		{
+			"id": "q20",
+			"text": "Do you write or work with software?"
+		},
+		{
+			"id": "q21",
+			"text": "Do you work directly with food?"
+		},
+		{
+			"id": "q22",
+			"text": "Do you prepare or serve things people eat?"
+		},
+		{
+			"id": "q23",
+			"text": "Do you have to wake up extremely early?"
+		},
+		{
+			"id": "q24",
+			"text": "Are you a morning person for this job?"
+		},
+		{
+			"id": "q25",
+			"text": "Do you have to wear a specific uniform?"
+		},
+		{
+			"id": "q26",
+			"text": "Does your company dictate exactly what you wear?"
+		},
+		{
+			"id": "q27",
+			"text": "Does your workplace get very hot?"
+		},
+		{
+			"id": "q28",
+			"text": "Do you sweat a lot due to the environment?"
+		},
+		{
+			"id": "q29",
+			"text": "Do you work in a kitchen?"
+		},
+		{
+			"id": "q30",
+			"text": "Are you surrounded by ovens and stoves?"
+		},
+		{
+			"id": "q31",
+			"text": "Do you work primarily with your hands?"
+		},
+		{
+			"id": "q32",
+			"text": "Is manual dexterity important for you?"
+		},
+		{
+			"id": "q33",
+			"text": "Do you work in a hospital or clinic?"
+		},
+		{
+			"id": "q34",
+			"text": "Are you surrounded by patients?"
+		},
+		{
+			"id": "q35",
+			"text": "Do you wear medical scrubs?"
+		},
+		{
+			"id": "q36",
+			"text": "Do you wear sanitary medical clothing?"
+		},
+		{
+			"id": "q37",
+			"text": "Do you use specialized physical tools?"
+		},
+		{
+			"id": "q38",
+			"text": "Do you carry equipment to do your job?"
+		},
+		{
+			"id": "q39",
+			"text": "Are you generally very well paid?"
+		},
+		{
+			"id": "q40",
+			"text": "Do people in your field make a high salary?"
+		},
+		{
+			"id": "q41",
+			"text": "Do you use science daily?"
+		},
+		{
+			"id": "q42",
+			"text": "Do you conduct experiments or apply biology/chemistry?"
+		},
+		{
+			"id": "q43",
+			"text": "Do you ever see blood at work?"
+		},
+		{
+			"id": "q44",
+			"text": "Are you squeamish around bodily fluids?"
+		},
+		{
+			"id": "q45",
+			"text": "Do you have to lift heavy objects?"
+		},
+		{
+			"id": "q46",
+			"text": "Is your job physically exhausting?"
+		},
+		{
+			"id": "q47",
+			"text": "Do you wear heavy protective gear?"
+		},
+		{
+			"id": "q48",
+			"text": "Do you wear a helmet or heavy boots?"
+		},
+		{
+			"id": "q49",
+			"text": "Is your job considered dangerous?"
+		},
+		{
+			"id": "q50",
+			"text": "Do you put your life on the line?"
+		},
+		{
+			"id": "q51",
+			"text": "Do you drive a very large vehicle?"
+		},
+		{
+			"id": "q52",
+			"text": "Are you behind the wheel of a heavy machine?"
+		},
+		{
+			"id": "q53",
+			"text": "Do you deal or interact with the general public or people?"
+		},
+		{
+			"id": "q54",
+			"text": "Do you serve or help everyday citizens?"
+		},
+		{
+			"id": "q55",
+			"text": "Do you work closely in a team?"
+		},
+		{
+			"id": "q56",
+			"text": "Do you have partners you rely on?"
+		},
+		{
+			"id": "q57",
+			"text": "Do you work irregular shifts?"
+		},
+		{
+			"id": "q58",
+			"text": "Is your schedule different every week?"
+		},
+		{
+			"id": "q59",
+			"text": "Do you deal with actual fires?"
+		},
+		{
+			"id": "q60",
+			"text": "Is smoke a hazard in your workplace?"
+		},
+		{
+			"id": "q61",
+			"text": "Do you perform on a stage?"
+		},
+		{
+			"id": "q62",
+			"text": "Are there bright lights shining on you?"
+		},
+		{
+			"id": "q63",
+			"text": "Do you travel a lot for work?"
+		},
+		{
+			"id": "q64",
+			"text": "Do you visit different cities or locations?"
+		},
+		{
+			"id": "q65",
+			"text": "Do you work late at night?"
+		},
+		{
+			"id": "q66",
+			"text": "Are you a night owl for this career?"
+		},
+		{
+			"id": "q67",
+			"text": "Do you speak into a microphone?"
+		},
+		{
+			"id": "q68",
+			"text": "Is your voice amplified for others?"
+		},
+		{
+			"id": "q69",
+			"text": "Is your primary goal to make people laugh?"
+		},
+		{
+			"id": "q70",
+			"text": "Are jokes part of your job description?"
+		},
+		{
+			"id": "q71",
+			"text": "Do you work with animals?"
+		},
+		{
+			"id": "q72",
+			"text": "Are you surrounded by non-human creatures?"
+		},
+		{
+			"id": "q73",
+			"text": "Do you get physically dirty at work?"
+		},
+		{
+			"id": "q74",
+			"text": "Do you need a shower immediately after your shift?"
+		},
+		{
+			"id": "q75",
+			"text": "Do you work out in nature?"
+		},
+		{
+			"id": "q76",
+			"text": "Are you interacting with plants or wildlife?"
+		},
+		{
+			"id": "q77",
+			"text": "Did you go to a trade school?"
+		},
+		{
+			"id": "q78",
+			"text": "Did you do an apprenticeship?"
+		},
+		{
+			"id": "q79",
+			"text": "Do you work on or near the water?"
+		},
+		{
+			"id": "q80",
+			"text": "Do you get wet while working?"
+		},
+		{
+			"id": "q81",
+			"text": "Do you wear a suit and tie?"
+		},
+		{
+			"id": "q82",
+			"text": "Do you have to dress up professionally?"
+		},
+		{
+			"id": "q83",
+			"text": "Do you carry a weapon?"
+		},
+		{
+			"id": "q84",
+			"text": "Do you have a firearm for your job?"
+		},
+		{
+			"id": "q85",
+			"text": "Do you deal with criminals?"
+		},
+		{
+			"id": "q86",
+			"text": "Are you involved in the justice system?"
+		},
+		{
+			"id": "q87",
+			"text": "Do you spend a lot of time in a car?"
+		},
+		{
+			"id": "q88",
+			"text": "Is a regular vehicle your main workspace?"
+		},
+		{
+			"id": "q89",
+			"text": "Do you work in a school?"
+		},
+		{
+			"id": "q90",
+			"text": "Are there classrooms where you work?"
+		},
+		{
+			"id": "q91",
+			"text": "Do you work with children or teenagers?"
+		},
+		{
+			"id": "q92",
+			"text": "Are young people your main clients?"
+		},
+		{
+			"id": "q93",
+			"text": "Do you talk for most of the day?"
+		},
+		{
+			"id": "q94",
+			"text": "Does your throat get sore from speaking?"
+		},
+		{
+			"id": "q95",
+			"text": "Do you operate a vehicle?"
+		},
+		{
+			"id": "q96",
+			"text": "Is transportation your main duty?"
+		},
+		{
+			"id": "q97",
+			"text": "Do you work high up in the air?"
+		},
+		{
+			"id": "q98",
+			"text": "Are you flying for work?"
+		},
+		{
+			"id": "q99",
+			"text": "Do you have to memorize lots of text?"
+		},
+		{
+			"id": "q100",
+			"text": "Do you rehearse words before working?"
+		},
+		{
+			"id": "q101",
+			"text": "Is your job highly creative or artistic?"
+		},
+		{
+			"id": "q102",
+			"text": "Are you considered an artist?"
+		},
+		{
+			"id": "q103",
+			"text": "Are people in your job often famous?"
+		},
+		{
+			"id": "q104",
+			"text": "Do you have fans?"
+		},
+		{
+			"id": "q105",
+			"text": "Do you use complex math?"
+		},
+		{
+			"id": "q106",
+			"text": "Do you calculate things daily?"
+		},
+		{
+			"id": "q107",
+			"text": "Do you design things visually or structurally?"
+		},
+		{
+			"id": "q108",
+			"text": "Do you plan how things will look?"
+		},
+		{
+			"id": "q109",
+			"text": "Is your job considered highly intellectual?"
+		},
+		{
+			"id": "q110",
+			"text": "Do you solve complex mental problems?"
+		},
+		{
+			"id": "q111",
+			"text": "Do you work completely alone mostly?"
+		},
+		{
+			"id": "q112",
+			"text": "Are you isolated while you work?"
+		},
+		{
+			"id": "q113",
+			"text": "Do you work with books or literature?"
+		},
+		{
+			"id": "q114",
+			"text": "Are you surrounded by written words?"
+		},
+		{
+			"id": "q115",
+			"text": "Do you handle large amounts of cash or finances?"
+		},
+		{
+			"id": "q116",
+			"text": "Do you process transactions?"
+		},
+		{
+			"id": "q117",
+			"text": "Do you serve beverages?"
+		},
+		{
+			"id": "q118",
+			"text": "Are liquids your main product?"
+		},
+		{
+			"id": "q119",
+			"text": "Is your workplace very loud?"
+		},
+		{
+			"id": "q120",
+			"text": "Do you have to shout to be heard?"
+		},
+		{
+			"id": "q121",
+			"text": "Do you work in a laboratory?"
+		},
+		{
+			"id": "q122",
+			"text": "Are you surrounded by beakers and microscopes?"
+		},
+		{
+			"id": "q123",
+			"text": "Do you work with wood?"
+		},
+		{
+			"id": "q124",
+			"text": "Is timber your main material?"
+		},
+		{
+			"id": "q125",
+			"text": "Do you use knives professionally?"
+		},
+		{
+			"id": "q126",
+			"text": "Are you constantly chopping or cutting?"
+		},
+		{
+			"id": "q127",
+			"text": "Do you look in people's mouths?"
+		},
+		{
+			"id": "q128",
+			"text": "Do you deal with teeth?"
+		},
+		{
+			"id": "q129",
+			"text": "Do you work with electricity and wires?"
+		},
+		{
+			"id": "q130",
+			"text": "Is there a risk of electrocution?"
+		},
+		{
+			"id": "q131",
+			"text": "Do you drive a tractor?"
+		},
+		{
+			"id": "q132",
+			"text": "Are you plowing fields?"
+		},
+		{
+			"id": "q133",
+			"text": "Do you arrange plants or flowers?"
+		},
+		{
+			"id": "q134",
+			"text": "Are you making bouquets?"
+		},
+		{
+			"id": "q135",
+			"text": "Does your workplace smell really good?"
+		},
+		{
+			"id": "q136",
+			"text": "Are you surrounded by pleasant scents?"
+		},
+		{
+			"id": "q137",
+			"text": "Do you cut or style hair?"
+		},
+		{
+			"id": "q138",
+			"text": "Do you use a blow dryer daily?"
+		},
+		{
+			"id": "q139",
+			"text": "Do you use scissors constantly?"
+		},
+		{
+			"id": "q140",
+			"text": "Are shears your main tool?"
+		},
+		{
+			"id": "q141",
+			"text": "Do you write articles or text for a living?"
+		},
+		{
+			"id": "q142",
+			"text": "Is publishing words your goal?"
+		},
+		{
+			"id": "q143",
+			"text": "Do you report on current events?"
+		},
+		{
+			"id": "q144",
+			"text": "Are you keeping the public informed?"
+		},
+		{
+			"id": "q145",
+			"text": "Do you enforce or practice the law?"
+		},
+		{
+			"id": "q146",
+			"text": "Are you involved in courtrooms or justice?"
+		},
+		{
+			"id": "q147",
+			"text": "Do you use a wooden hammer?"
+		},
+		{
+			"id": "q148",
+			"text": "Do you bang a gavel?"
+		},
+		{
+			"id": "q149",
+			"text": "Does your workplace have to be strictly quiet?"
+		},
+		{
+			"id": "q150",
+			"text": "Do you 'shhh' people?"
+		},
+		{
+			"id": "q151",
+			"text": "Do you blow a whistle?"
+		},
+		{
+			"id": "q152",
+			"text": "Is a whistle around your neck?"
+		},
+		{
+			"id": "q153",
+			"text": "Do you get a sunburn at work?"
+		},
+		{
+			"id": "q154",
+			"text": "Are you exposed to the sun all day?"
+		},
+		{
+			"id": "q155",
+			"text": "Do you perform illusions?"
+		},
+		{
+			"id": "q156",
+			"text": "Are you fooling people on purpose?"
+		},
+		{
+			"id": "q157",
+			"text": "Do you use playing cards for work?"
+		},
+		{
+			"id": "q158",
+			"text": "Are decks of cards your tools?"
+		},
+		{
+			"id": "q159",
+			"text": "Do you have to swim for work?"
+		},
+		{
+			"id": "q160",
+			"text": "Is knowing how to swim mandatory?"
+		},
+		{
+			"id": "q161",
+			"text": "Do you work on or in automobiles?"
+		},
+		{
+			"id": "q162",
+			"text": "Are you surrounded by cars?"
+		},
+		{
+			"id": "q163",
+			"text": "Do you play a musical instrument?"
+		},
+		{
+			"id": "q164",
+			"text": "Is a guitar or piano your tool?"
+		},
+		{
+			"id": "q165",
+			"text": "Do you use paint?"
+		},
+		{
+			"id": "q166",
+			"text": "Are your clothes covered in paint stains?"
+		},
+		{
+			"id": "q167",
+			"text": "Do you prescribe or dispense medicine?"
+		},
+		{
+			"id": "q168",
+			"text": "Are pills and prescriptions your focus?"
+		},
+		{
+			"id": "q169",
+			"text": "Do you use a camera professionally?"
+		},
+		{
+			"id": "q170",
+			"text": "Is a lens your main tool?"
+		},
+		{
+			"id": "q171",
+			"text": "Do you focus a lens?"
+		},
+		{
+			"id": "q172",
+			"text": "Are you looking through a viewfinder?"
+		},
+		{
+			"id": "q173",
+			"text": "Do you sell or show houses?"
+		},
+		{
+			"id": "q174",
+			"text": "Are you walking through homes daily?"
+		},
+		{
+			"id": "q175",
+			"text": "Do you work on commission?"
+		},
+		{
+			"id": "q176",
+			"text": "Is making a sale your primary goal?"
+		},
+		{
+			"id": "q177",
+			"text": "Do you answer a telephone all day?"
+		},
+		{
+			"id": "q178",
+			"text": "Is a headset on your ear?"
+		},
+		{
+			"id": "q179",
+			"text": "Do you wear a white lab coat?"
+		},
+		{
+			"id": "q180",
+			"text": "Is a white coat your uniform?"
+		},
+		{
+			"id": "q181",
+			"text": "Is your voice your primary instrument?"
+		},
+		{
+			"id": "q182",
+			"text": "Do you do vocal warmups?"
+		},
+		{
+			"id": "q183",
+			"text": "Do you have to be incredibly physically fit?"
+		},
+		{
+			"id": "q184",
+			"text": "Do you train your body for your job?"
+		},
+		{
+			"id": "q185",
+			"text": "Do you make or alter clothing?"
+		},
+		{
+			"id": "q186",
+			"text": "Are you sewing fabric?"
+		},
+		{
+			"id": "q187",
+			"text": "Do you use a needle and thread?"
+		},
+		{
+			"id": "q188",
+			"text": "Are you careful not to prick your finger?"
+		},
+		{
+			"id": "q189",
+			"text": "Do you navigate city streets all day?"
+		},
+		{
+			"id": "q190",
+			"text": "Are you always in an urban environment?"
+		},
+		{
+			"id": "q191",
+			"text": "Do you rely heavily on customer tips?"
+		},
+		{
+			"id": "q192",
+			"text": "Are gratuities expected in your line of work?"
+		},
+		{
+			"id": "q193",
+			"text": "Do you carry multiple plates at once?"
+		},
+		{
+			"id": "q194",
+			"text": "Are you dropping off meals?"
+		},
+		{
+			"id": "q195",
+			"text": "Do you work both indoors and outdoors?"
+		},
+		{
+			"id": "q196",
+			"text": "Do you split your time inside and outside?"
+		}
+	],
+	"professions": [
+		{
+			"job_title": "Software Engineer",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q9": "Yes, I work on a computer.",
+				"q10": "Yes, I use a computer constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q15": "Yes, usually in a standard office.",
+				"q16": "Yes, I work in an office environment.",
+				"q17": "Yes, there is very little physical risk.",
+				"q18": "No, it is a very safe job.",
+				"q19": "Yes, my work is heavily tech-focused.",
+				"q20": "Yes, tech is my main focus."
+			}
+		},
+		{
+			"job_title": "Baker",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q21": "Yes, handling food is a huge part of it.",
+				"q22": "Yes, I deal with food daily.",
+				"q23": "Yes, my shifts start before sunrise.",
+				"q24": "Yes, early mornings are required.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q27": "Yes, it gets extremely warm.",
+				"q28": "Yes, the heat is intense.",
+				"q29": "Yes, a commercial kitchen.",
+				"q30": "Yes, my workplace is a kitchen.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands."
+			}
+		},
+		{
+			"job_title": "Surgeon",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands.",
+				"q33": "Yes, in a medical facility.",
+				"q34": "Yes, I work in healthcare.",
+				"q35": "Yes, scrubs are my daily outfit.",
+				"q36": "Yes, scrubs are required.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q39": "Yes, it is a lucrative career.",
+				"q40": "Yes, the compensation is great.",
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q43": "Yes, dealing with blood is common.",
+				"q44": "No, I deal with them frequently."
+			}
+		},
+		{
+			"job_title": "Firefighter",
+			"answers": {
+				"q3": "Yes, I spend most of my shift outside.",
+				"q4": "Yes, I work outdoors in the elements.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q47": "Yes, specialized safety gear.",
+				"q48": "Yes, protective equipment is mandatory.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q51": "Yes, driving a large truck is part of it.",
+				"q52": "Yes, I operate a large vehicle.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q55": "Yes, teamwork is essential.",
+				"q56": "Yes, I never work completely alone.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard.",
+				"q59": "Yes, extinguishing them.",
+				"q60": "Yes, fires are a primary hazard."
+			}
+		},
+		{
+			"job_title": "Comedian",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q61": "Yes, in front of audiences.",
+				"q62": "Yes, stage lighting is common.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q65": "Yes, my job happens after dark.",
+				"q66": "Yes, evening and night shifts are normal.",
+				"q67": "Yes, to project my voice.",
+				"q68": "Yes, a mic is my tool.",
+				"q69": "Yes, comedy is my business.",
+				"q70": "Yes, being funny is mandatory."
+			}
+		},
+		{
+			"job_title": "Zookeeper",
+			"answers": {
+				"q3": "Yes, I spend most of my shift outside.",
+				"q4": "Yes, I work outdoors in the elements.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q71": "Yes, taking care of them.",
+				"q72": "Yes, animals are my main focus.",
+				"q73": "Yes, grime and dirt are common.",
+				"q74": "Yes, it is a messy job.",
+				"q75": "Yes, surrounded by the environment.",
+				"q76": "Yes, nature is my office."
+			}
+		},
+		{
+			"job_title": "Plumber",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q73": "Yes, grime and dirt are common.",
+				"q74": "Yes, it is a messy job.",
+				"q77": "Yes, specialized vocational training.",
+				"q78": "Yes, hands-on training was required.",
+				"q79": "Yes, aquatic environments are common.",
+				"q80": "Yes, water is a big part of it."
+			}
+		},
+		{
+			"job_title": "Detective",
+			"answers": {
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q55": "Yes, teamwork is essential.",
+				"q56": "Yes, I never work completely alone.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q81": "Yes, formal business attire.",
+				"q82": "Yes, a suit is standard.",
+				"q83": "Yes, I am armed.",
+				"q84": "Yes, carrying a gun is required.",
+				"q85": "Yes, investigating or stopping them.",
+				"q86": "Yes, crime is my daily focus.",
+				"q87": "Yes, driving is a huge component.",
+				"q88": "Yes, I am in a car constantly.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Teacher",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q89": "Yes, an educational facility.",
+				"q90": "Yes, I work in a school building.",
+				"q91": "Yes, everyday.",
+				"q92": "Yes, I interact with kids constantly.",
+				"q93": "Yes, communication is key.",
+				"q94": "Yes, I talk non-stop."
+			}
+		},
+		{
+			"job_title": "Pilot",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q39": "Yes, it is a lucrative career.",
+				"q40": "Yes, the compensation is great.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q95": "Yes, driving or flying.",
+				"q96": "Yes, moving a vehicle is my job.",
+				"q97": "Yes, way off the ground.",
+				"q98": "Yes, the sky is my workplace."
+			}
+		},
+		{
+			"job_title": "Actor",
+			"answers": {
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q61": "Yes, in front of audiences.",
+				"q62": "Yes, stage lighting is common.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q99": "Yes, learning lines is crucial.",
+				"q100": "Yes, memorization is a big part.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q103": "Yes, celebrities do this.",
+				"q104": "Yes, if you are successful.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Architect",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q9": "Yes, I work on a computer.",
+				"q10": "Yes, I use a computer constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q15": "Yes, usually in a standard office.",
+				"q16": "Yes, I work in an office environment.",
+				"q105": "Yes, numbers are everywhere.",
+				"q106": "Yes, math is a huge requirement.",
+				"q107": "Yes, creating blueprints or layouts.",
+				"q108": "Yes, design is my core focus."
+			}
+		},
+		{
+			"job_title": "Astronaut",
+			"answers": {
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q81": "Yes, formal business attire.",
+				"q82": "Yes, a suit is standard.",
+				"q95": "Yes, driving or flying.",
+				"q96": "Yes, moving a vehicle is my job.",
+				"q97": "Yes, way off the ground.",
+				"q98": "Yes, the sky is my workplace.",
+				"q109": "Yes, it requires intense study.",
+				"q110": "Yes, it is very mentally taxing.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Author",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q9": "Yes, I work on a computer.",
+				"q10": "Yes, I use a computer constantly.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q111": "Yes, very little interaction.",
+				"q112": "Yes, I am very independent.",
+				"q113": "Yes, reading and writing are key.",
+				"q114": "Yes, text is my medium."
+			}
+		},
+		{
+			"job_title": "Bank Teller",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q15": "Yes, usually in a standard office.",
+				"q16": "Yes, I work in an office environment.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q105": "Yes, numbers are everywhere.",
+				"q106": "Yes, math is a huge requirement.",
+				"q115": "Yes, dealing with money is my job.",
+				"q116": "Yes, I manage funds directly."
+			}
+		},
+		{
+			"job_title": "Bartender",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q21": "Yes, handling food is a huge part of it.",
+				"q22": "Yes, I deal with food daily.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q65": "Yes, my job happens after dark.",
+				"q66": "Yes, evening and night shifts are normal.",
+				"q117": "Yes, making and serving drinks.",
+				"q118": "Yes, pouring drinks is what I do.",
+				"q119": "Yes, hearing protection is sometimes needed.",
+				"q120": "Yes, it is a very noisy environment."
+			}
+		},
+		{
+			"job_title": "Biologist",
+			"answers": {
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q75": "Yes, surrounded by the environment.",
+				"q76": "Yes, nature is my office.",
+				"q109": "Yes, it requires intense study.",
+				"q110": "Yes, it is very mentally taxing.",
+				"q121": "Yes, with scientific equipment.",
+				"q122": "Yes, a lab is my domain.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Carpenter",
+			"answers": {
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q77": "Yes, specialized vocational training.",
+				"q78": "Yes, hands-on training was required.",
+				"q123": "Yes, cutting and shaping it.",
+				"q124": "Yes, I build with wood.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Chef",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q21": "Yes, handling food is a huge part of it.",
+				"q22": "Yes, I deal with food daily.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q27": "Yes, it gets extremely warm.",
+				"q28": "Yes, the heat is intense.",
+				"q29": "Yes, a commercial kitchen.",
+				"q30": "Yes, my workplace is a kitchen.",
+				"q125": "Yes, sharp blades are my tools.",
+				"q126": "Yes, knife skills are essential."
+			}
+		},
+		{
+			"job_title": "Dentist",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q33": "Yes, in a medical facility.",
+				"q34": "Yes, I work in healthcare.",
+				"q35": "Yes, scrubs are my daily outfit.",
+				"q36": "Yes, scrubs are required.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q39": "Yes, it is a lucrative career.",
+				"q40": "Yes, the compensation is great.",
+				"q127": "Yes, dental health is my focus.",
+				"q128": "Yes, exactly that."
+			}
+		},
+		{
+			"job_title": "Electrician",
+			"answers": {
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q77": "Yes, specialized vocational training.",
+				"q78": "Yes, hands-on training was required.",
+				"q129": "Yes, electrical systems.",
+				"q130": "Yes, if I am not careful with wires.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Farmer",
+			"answers": {
+				"q3": "Yes, I spend most of my shift outside.",
+				"q4": "Yes, I work outdoors in the elements.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q23": "Yes, my shifts start before sunrise.",
+				"q24": "Yes, early mornings are required.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q71": "Yes, taking care of them.",
+				"q72": "Yes, animals are my main focus.",
+				"q73": "Yes, grime and dirt are common.",
+				"q74": "Yes, it is a messy job.",
+				"q75": "Yes, surrounded by the environment.",
+				"q76": "Yes, nature is my office.",
+				"q131": "Yes, heavy farm machinery.",
+				"q132": "Yes, driving a tractor is common."
+			}
+		},
+		{
+			"job_title": "Flight Attendant",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q97": "Yes, way off the ground.",
+				"q98": "Yes, the sky is my workplace."
+			}
+		},
+		{
+			"job_title": "Florist",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q75": "Yes, surrounded by the environment.",
+				"q76": "Yes, nature is my office.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q133": "Yes, floral design.",
+				"q134": "Yes, working with beautiful plants.",
+				"q135": "Yes, usually like fresh nature.",
+				"q136": "Yes, it is very fragrant."
+			}
+		},
+		{
+			"job_title": "Graphic Designer",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q9": "Yes, I work on a computer.",
+				"q10": "Yes, I use a computer constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q107": "Yes, creating blueprints or layouts.",
+				"q108": "Yes, design is my core focus."
+			}
+		},
+		{
+			"job_title": "Hairdresser",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q137": "Yes, making people look good.",
+				"q138": "Yes, hair styling is my job.",
+				"q139": "Yes, snipping all day.",
+				"q140": "Yes, I rely on them heavily."
+			}
+		},
+		{
+			"job_title": "Journalist",
+			"answers": {
+				"q9": "Yes, I work on a computer.",
+				"q10": "Yes, I use a computer constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q141": "Yes, typing out stories or information.",
+				"q142": "Yes, I am a writer.",
+				"q143": "Yes, journalism.",
+				"q144": "Yes, the news is my business.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Judge",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q39": "Yes, it is a lucrative career.",
+				"q40": "Yes, the compensation is great.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q81": "Yes, formal business attire.",
+				"q82": "Yes, a suit is standard.",
+				"q145": "Yes, the legal system.",
+				"q146": "Yes, law is my entire field.",
+				"q147": "Yes, to keep order.",
+				"q148": "Yes, I do!"
+			}
+		},
+		{
+			"job_title": "Librarian",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q113": "Yes, reading and writing are key.",
+				"q114": "Yes, text is my medium.",
+				"q149": "Yes, no loud noises allowed.",
+				"q150": "Yes, silence is mandated."
+			}
+		},
+		{
+			"job_title": "Lifeguard",
+			"answers": {
+				"q3": "Yes, I spend most of my shift outside.",
+				"q4": "Yes, I work outdoors in the elements.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q79": "Yes, aquatic environments are common.",
+				"q80": "Yes, water is a big part of it.",
+				"q151": "Yes, to get attention.",
+				"q152": "Yes, it is my main signal.",
+				"q153": "Yes, if I don't wear sunscreen.",
+				"q154": "Yes, UV rays are a hazard."
+			}
+		},
+		{
+			"job_title": "Magician",
+			"answers": {
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q61": "Yes, in front of audiences.",
+				"q62": "Yes, stage lighting is common.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q81": "Yes, formal business attire.",
+				"q82": "Yes, a suit is standard.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q155": "Yes, sleight of hand.",
+				"q156": "Yes, magic is my trade.",
+				"q157": "Yes, shuffling and dealing.",
+				"q158": "Yes, I use them constantly.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Marine Biologist",
+			"answers": {
+				"q3": "Yes, I spend most of my shift outside.",
+				"q4": "Yes, I work outdoors in the elements.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q71": "Yes, taking care of them.",
+				"q72": "Yes, animals are my main focus.",
+				"q79": "Yes, aquatic environments are common.",
+				"q80": "Yes, water is a big part of it.",
+				"q159": "Yes, getting in the water.",
+				"q160": "Yes, absolutely."
+			}
+		},
+		{
+			"job_title": "Mechanic",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q73": "Yes, grime and dirt are common.",
+				"q74": "Yes, it is a messy job.",
+				"q77": "Yes, specialized vocational training.",
+				"q78": "Yes, hands-on training was required.",
+				"q161": "Yes, vehicles are my focus.",
+				"q162": "Yes, engines and tires."
+			}
+		},
+		{
+			"job_title": "Musician",
+			"answers": {
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q61": "Yes, in front of audiences.",
+				"q62": "Yes, stage lighting is common.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q65": "Yes, my job happens after dark.",
+				"q66": "Yes, evening and night shifts are normal.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q163": "Yes, making melodies.",
+				"q164": "Yes, I play music.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Nurse",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q33": "Yes, in a medical facility.",
+				"q34": "Yes, I work in healthcare.",
+				"q35": "Yes, scrubs are my daily outfit.",
+				"q36": "Yes, scrubs are required.",
+				"q43": "Yes, dealing with blood is common.",
+				"q44": "No, I deal with them frequently.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard."
+			}
+		},
+		{
+			"job_title": "Painter",
+			"answers": {
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q73": "Yes, grime and dirt are common.",
+				"q74": "Yes, it is a messy job.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q165": "Yes, applying color.",
+				"q166": "Yes, it is very messy.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Paramedic",
+			"answers": {
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q33": "Yes, in a medical facility.",
+				"q34": "Yes, I work in healthcare.",
+				"q43": "Yes, dealing with blood is common.",
+				"q44": "No, I deal with them frequently.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q95": "Yes, driving or flying.",
+				"q96": "Yes, moving a vehicle is my job.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Pharmacist",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q33": "Yes, in a medical facility.",
+				"q34": "Yes, I work in healthcare.",
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q167": "Yes, pharmaceuticals.",
+				"q168": "Yes, medicine is my field."
+			}
+		},
+		{
+			"job_title": "Photographer",
+			"answers": {
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q169": "Yes, taking photos.",
+				"q170": "Yes, capturing images.",
+				"q171": "Yes, to get a sharp image.",
+				"q172": "Yes, constantly.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Police Officer",
+			"answers": {
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q83": "Yes, I am armed.",
+				"q84": "Yes, carrying a gun is required.",
+				"q95": "Yes, driving or flying.",
+				"q96": "Yes, moving a vehicle is my job.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Politician",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q39": "Yes, it is a lucrative career.",
+				"q40": "Yes, the compensation is great.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q81": "Yes, formal business attire.",
+				"q82": "Yes, a suit is standard.",
+				"q93": "Yes, communication is key.",
+				"q94": "Yes, I talk non-stop."
+			}
+		},
+		{
+			"job_title": "Real Estate Agent",
+			"answers": {
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q81": "Yes, formal business attire.",
+				"q82": "Yes, a suit is standard.",
+				"q93": "Yes, communication is key.",
+				"q94": "Yes, I talk non-stop.",
+				"q173": "Yes, real estate.",
+				"q174": "Yes, showing properties.",
+				"q175": "Yes, the more I sell the more I make.",
+				"q176": "Yes, closing deals.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Receptionist",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q9": "Yes, I work on a computer.",
+				"q10": "Yes, I use a computer constantly.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q15": "Yes, usually in a standard office.",
+				"q16": "Yes, I work in an office environment.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q177": "Yes, fielding calls.",
+				"q178": "Yes, phone communication is huge."
+			}
+		},
+		{
+			"job_title": "Scientist",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q109": "Yes, it requires intense study.",
+				"q110": "Yes, it is very mentally taxing.",
+				"q121": "Yes, with scientific equipment.",
+				"q122": "Yes, a lab is my domain.",
+				"q179": "Yes, for cleanliness and protection.",
+				"q180": "Yes, a standard lab coat."
+			}
+		},
+		{
+			"job_title": "Singer",
+			"answers": {
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q61": "Yes, in front of audiences.",
+				"q62": "Yes, stage lighting is common.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q65": "Yes, my job happens after dark.",
+				"q66": "Yes, evening and night shifts are normal.",
+				"q67": "Yes, to project my voice.",
+				"q68": "Yes, a mic is my tool.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q181": "Yes, singing or speaking.",
+				"q182": "Yes, to protect my vocal cords.",
+				"q195": "Yes, my environment changes.",
+				"q196": "Yes, it is a mixed environment."
+			}
+		},
+		{
+			"job_title": "Soldier",
+			"answers": {
+				"q3": "Yes, I spend most of my shift outside.",
+				"q4": "Yes, I work outdoors in the elements.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q45": "Yes, physical lifting is required.",
+				"q46": "Yes, it requires a lot of strength.",
+				"q49": "Yes, there are life-threatening risks.",
+				"q50": "Yes, it can be extremely dangerous.",
+				"q55": "Yes, teamwork is essential.",
+				"q56": "Yes, I never work completely alone.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q83": "Yes, I am armed.",
+				"q84": "Yes, carrying a gun is required.",
+				"q183": "Yes, peak condition is required.",
+				"q184": "Yes, fitness is mandatory."
+			}
+		},
+		{
+			"job_title": "Tailor",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q31": "Yes, it is very hands-on work.",
+				"q32": "Yes, I need good use of my hands.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q101": "Yes, it relies on creativity.",
+				"q102": "Yes, art is my profession.",
+				"q185": "Yes, garments.",
+				"q186": "Yes, tailoring clothes.",
+				"q187": "Yes, stitching things.",
+				"q188": "Yes, needles are sharp!"
+			}
+		},
+		{
+			"job_title": "Taxi Driver",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q5": "Yes, my job involves a lot of sitting.",
+				"q6": "Yes, I spend most of my time seated.",
+				"q13": "Yes, the dress code is very casual.",
+				"q14": "Yes, I can dress comfortably.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q63": "Yes, I am constantly on the move.",
+				"q64": "Yes, travel is a big requirement.",
+				"q95": "Yes, driving or flying.",
+				"q96": "Yes, moving a vehicle is my job.",
+				"q161": "Yes, vehicles are my focus.",
+				"q162": "Yes, engines and tires.",
+				"q189": "Yes, driving through traffic.",
+				"q190": "Yes, the city is my map."
+			}
+		},
+		{
+			"job_title": "Veterinarian",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q11": "Yes, a degree is required.",
+				"q12": "Yes, higher education is mandatory.",
+				"q33": "Yes, in a medical facility.",
+				"q34": "Yes, I work in healthcare.",
+				"q35": "Yes, scrubs are my daily outfit.",
+				"q36": "Yes, scrubs are required.",
+				"q37": "Yes, I use specific instruments.",
+				"q38": "Yes, tools are essential.",
+				"q41": "Yes, science is the core of my job.",
+				"q42": "Yes, it is a scientific field.",
+				"q71": "Yes, taking care of them.",
+				"q72": "Yes, animals are my main focus."
+			}
+		},
+		{
+			"job_title": "Waiter",
+			"answers": {
+				"q1": "Yes, I work almost entirely indoors.",
+				"q2": "Yes, I am inside for work.",
+				"q7": "Yes, I am on my feet for most of the shift.",
+				"q8": "Yes, I stand constantly.",
+				"q21": "Yes, handling food is a huge part of it.",
+				"q22": "Yes, I deal with food daily.",
+				"q25": "Yes, I have a mandatory uniform.",
+				"q26": "Yes, I wear a provided uniform.",
+				"q53": "Yes, constantly interacting with people.",
+				"q54": "Yes, customer or public interaction is huge.",
+				"q57": "Yes, nights, weekends, or 24-hour shifts.",
+				"q58": "Yes, shift work is standard.",
+				"q191": "Yes, it makes up my income.",
+				"q192": "Yes, tipping is standard.",
+				"q193": "Yes, balancing food.",
+				"q194": "Yes, serving tables."
+			}
+		}
+	]
+}
